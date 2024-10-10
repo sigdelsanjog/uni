@@ -1,0 +1,98 @@
+Research Areas: 
+
+Deep Learning, Natural Language Processing, Machine Learning, Computational Argumentation
+
+Education:
+
+Ph.D. in Computer Science: December 2018, University of Evora, Portugal
+
+ 
+
+Thesis: “Automatic Extraction and Structure of Arguments in Legal Documents”
+
+Master Degree in Computer Engineering: October 2009 - July 2012, Kathmandu University, Dhulikhel, Nepal.
+
+ 
+
+Thesis: “An Hybrid Approach in Named Entity Extraction and Automatic Ontology Population in Legal Domain”
+
+Note: Thesis Work is from the Department of Informatics, University of Evora, Portugal as an exchange student.
+
+Bachelor in Computer Engineering: 2000-2004, Kathmandu University, Dhulikhel, Nepal.
+
+Intermediate Science (I.Sc.): 1998-2000, Kathmandu University, Dhulikhel, Nepal.
+
+Publication:
+
+Prakash Poudyal, Jaromir Savelka, Aagje Ieven, Marie Francine Moens, Teresa Goncalves, and Paulo Quaresma. ECHR: Legal Corpus for Argument Mining. In Proceedings of the 7th Workshop on Argument Mining, pages 67–75, Online, December 2020. Association for Computational Linguistics
+
+Prakash Poudyal, Teresa Goncalves, and Paulo Quaresma. Using clustering techniques to identify arguments in legal documents. In Kevin Ashley, Katie Atkinson, Karl Branting, Enrico Francesconi, Matthias Grabmair, Bernhard Walti, Vern Walker, and Adam Wyner, editors, Proceedings of the Third Workshop on Automated Semantic Analysis of Information in Legal Texts co-located with the 17th International Conference on Artificial Intelligence and Law (ICAIL 2019), volume 2385. CEUR, 2019. Montreal, QC, Canada, 8 pages.
+
+Prakash Poudyal Automatic Extraction and Structure of Arguments in Legal Documents. Doctoral dissertation, 2018. University of Evora, Portugal
+
+Prakash Poudyal, Teresa Gonçalves and Paulo Quaresma. An architecture for the automatic identification of arguments in legal documents, The 2nd International Workshop on Methodologies for Research on Legal Argumentation (MET-ARG) at WAW 2018 Warsaw Argumentation Week September 15th, 2018, Warsaw.
+
+Prakash Poudyal, Teresa Gonçalves and Paulo Quaresma. Experiments On Identification of Argumentative Sentences, In Proceedings of the SKIMA – Software, Knowledge, Information Management and Applications Conference, pages 398–403. IEEE, 2016.
+
+Prakash Poudyal. Automatic Extraction and Structure of Arguments in Legal Documents, Proceedings of the Second Summer School of Argumentation: Computational and Linguistic Perspectives (SSA '16), CoRR, abs/1608.02441
+
+Prakash Poudyal. A Machine Learning Approach to Argument Mining in Legal Documents, VI Workshop on Artificial Intelligence and the Complexity of Legal Systems (AICOL), JURIX 2015, 9th-11th December 2015, University of Minho, Braga Portugal (Best Paper)
+
+Prakash Poudyal, Teresa Gonçalves and Paulo Quaresma. The influence of training data on the performance of the SVMCMM algorithm ,JIUE'2014 - Jornadas de Informtica da Universidade de Evora, Universidade de Evora, ISBN 978-989-97060-2-6, February 2014.
+
+Mohammad Moinul Hoque, Prakash Poudyal, Teresa Gonçalves and Paulo Quaresma. Information Retrieval Based on Extraction of Domain Specific Significant Keywords and Other Relevant Phrases from a Conceptual Semantic network Structure Forum for Information Retrieval Evaluation (FIRE) 4th - 6th December 2013, India International Center, New Delhi India
+
+Prakash Poudyal and Paulo Quaresma. An hybrid approach for legal information extraction. In Burkhard Schafer, editor, ¨ Legal Knowledge and Information Systems - JURIX 2012: The Twenty-Fifth Annual Conference, University of Amsterdam, The Netherlands, 17-19 December 2012, volume 250 of Frontiers in Artificial Intelligence and Applications, pages 115–118. IOS Press, 2012.
+
+Prakash Poudyal, Luis Borrego and Paulo Quaresma: Using machine-learning algorithms to identify named entities in legal documents: a preliminary approach, JIUE'2011 - Jornadas de Informtica da Universidade de Evora, Universidade de Evora, ISBN 978-989-97060-2-6, November 2011.
+
+Seminars and Conferences
+
+30th International Conference on Legal Knowledge and Information Systems (JURIX 2017) from December 13-15, 2017, University of Luxembourg, Luxembourg
+
+6th International Conference on Computational Models of Argument (COMMA 2016), University of Potsdam, Potsdam, Germany, September 14-16, 2016.
+
+6th Conference in Information Technology ”, Department of Informatics, University of Evora (JIUE’2016), March 31, 2016.
+
+28th International Conference on Legal Knowledge and Information Systems (JURIX 2015) from December 9-15 December 2015, University of Minho, Braga Portugal.
+
+4th Conference in Information Technology, Department of Informatics, University of Evora (JIUE’2014), February 27 and 28, 2014
+
+2nd Conference in Information Technology, Department of Computer Science, University of Evora (JIUE’2011). November 16, 2011.
+
+AsiaBSD Conference (AsiaBSDCon 2008) from March 27- 30, 2008, Tokyo University of Science, Tokyo, Japan.
+
+International Conference on the “Teaching of Mathematical Modeling and Applications (ICTMA)” from June 25-29 2007, Kathmandu University, Nepal
+
+Summer School and Workshops:
+
+Participated in Centre for Argument Technology to learn more about techniques for argument mining from August 15-19, 2017, Arg-Tech, Dundee University, Scotland.
+
+The First International Workshop on Systems and Algorithms for Formal Argumentation (SAFA)from September 13, 2016, University of Potsdam, Germany
+
+The First International Workshop on Systems and Algorithms for Formal Argumentation (SAFA) from September 13, 2016, University of Potsdam, Germany
+
+Certificate of Participation in “The Second Summer School on Argumentation: Computational and Linguistic Perspectives” from September 8-12, 2016 at Potsdam University, Potsdam, Germany
+
+Certificate of Participation in “LXMLS 2014- Lisbon Machine Learning School” from July 22-29, 2014 at Instituto Superior Tecnico, Lisbon, Portugal
+
+Certificate of Attendance “Advanced Graphics Processing for Manufacturing” 13-15 September 2010, Kathmandu University, Dhulikhel Nepal
+
+Certificate of Completion of “Training National Seminar on Developing ICT in Education Master Plan” 22-25 June 2010, Organized by Ministry of Education, Government of Nepal, Kathmandu Nepal
+
+Certificate of Achievement in “Information Technology and Management” from November 5 to 16, 2007 at the Asian Institute of Technology (AIT), Thailand.
+
+Certificate of Participation in “System and Network Administration and Security” from January 2 to March 17 2007 at Computer Point, Nepal
+Won Second Prize in "Invoation Day" in PACT - Parque do Alentejo de Ciência e Tecnologia, on 27th November, 2017 Evora Portugal.
+
+Best Doctoral Consortium Paper Award (received $200 as Amazon gift card ) in 28th International Conference on Legal Knowledge and Information Systems (JURIX 2015) from December 9-15 December 2015, University of Minho, Braga Portugal.
+
+“Erasmus Mundus Mobility with Asia (EMMA)” Scholarship (September 2013- August 2016) funded by the European Commission to study Doctoral degree in the Department of Computer Science at the University of Evora, Portugal.
+
+“Erasmus Mundus Mobility with Asia (EMMA)” Scholarship (September 2011- August 2012) funded by the European Commission to study Master Degree Program in the Department of Computer Science at the University of Evora, Portugal.
+
+Full Scholarship from Kathmandu University, to study Master Degree in Computer Engineering in Department of Computer Science and Engineering, Kathmandu University, Nepal from (September 2009- August 2011)
+
+Travel Grant Received from FreeBSD Foundation, Colorado, USA to participate in AsiaBSD Conference (AsiaBSDCon 2008), Tokyo University of Science, Tokyo, Japan
+
+Partial Scholarship from Kathmandu University, to study Undergraduate degree in Engineering in “Computer Engineering” in Department of Computer Science and Engineering, Kathmandu University, Nepal from 2000 to 2004

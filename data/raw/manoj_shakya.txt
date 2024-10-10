@@ -1,0 +1,124 @@
+https://manojshakya.com.np
+
+ACADEMICS:
+
+PhD in Artificial Intelligence, Nanyang Technological University, Singapore, (2019-2024).
+ME in Computer Science and Technology, Hunan University, China, (2003-2006).
+BE in Computer Science and Engineering, Kathmandu University, Nepal, (1997-2001).
+RESEARCH INTERESTS:
+
+Artificial Intelligence and Machine Learning (AI/ML)
+Deep Learning (DL)
+Deep Reinforcement Learning (DRL)
+Data Science (DS)
+EXPERIENCES:
+
+Assistant Professor (2008-Present), Kathmandu University, Nepal.
+Software Developer (2006-2008), Javra Software Nepal.
+Lecturer (2001-2003), Champion Kathmandu College, Kathmandu, Nepal.
+SEMINAR/INVITED TALKS:
+
+"The Performance of Deep Q-Network for Inventory Optimization", Kathmandu University, Nepal, 2024.
+"Deep Reinforcement Learning: From Basics to Cutting Edge", Lincoln International College, Nepal, 2024.
+"Reinforcement Learning for Industry 4.0 Supply Chain", The International Science and Technology Conference (MoNeTec 2020), Moscow, Russia, 2020.
+"Cloud Computing in Nepal: Trends, Situations, and Perspectives", The International Science and Technology Conference (MoNeTec 2018), Moscow, Russia, 2019.
+"Cloud Computing in Nepal: Status", The 2nd World Intelligence Congress (WIC 2018), Tianjin, China, 2018.
+"Artificial Intelligence in Journalism", Knowledge Enhancement Workshop, Chitwan, Nepal, 2018.
+"Massive Open Online Courses: Challenges and Opportunities", International Seminar on ICT Enabled Teaching and Learning, TITI, Nepal, 2017.
+"Research Opportunities for Undergraduate Students", Deerwalk Institute of Technology, Nepal, 2017
+"Cloud Computing: Trends and Opportunities", Ace Institute of Management, Nepal, 2010.
+"Grid Computing: Challenges and Opportunities", White House Education Network, Nepal, 2008.
+PROFESSIONAL MEMBERSHIPS:
+
+Nepal Research and Education Network (2017–Present: General Member)
+Nepal Research and Education Network (2018–2020: Executive Member)
+IEEE Member (2017–Present)
+IEEE Computer Society Member (2020–Present)
+Information Technology Professional Forum (2010–Present)
+TECHNICAL PROGRAM COMMITTEE:
+
+IEEE 10th International Conference on Business and Industrial Research (ICBIR 2025), Bangkong, Thailand, May 22-23, 2025.
+IEEE Frontiers in Education (FIE 2024), Washington DC, USA, October 13-16, 2024.
+IEEE 9th International Conference on Business and Industrial Research (ICBIR 2024), Bangkong, Thailand, May 23-24, 2024.
+IEEE The International Science and Technology Conference (MoNeTec 2024), Moscow, Russia, October 29-31, 2024.
+12th International Young Scientists Conference in Computational Science (YSC 2023), Abu Dhabi, UAE, October 9-14, 2023
+IEEE 5th International Conference on High Performance Big Data and Intelligent Systems (HDIS 2023),  Macau, China, December 6-8, 2023.
+The International Science and Technology Conference (MoNeTec 2022)  Moscow, Russia, October 27-28, 2022.
+10th International Young Scientists Conference in Computational Science (YSC 2021), Greece, June 28 - July 2, 2021
+9th International Young Scientists Conference in Computational Science (YSC 2020), Greece, June 22-27, 2020
+IEEE International Science and Technology Conference (MoNeTec 2020), Moscow, Russia, October 20-22, 2020.
+8th International Young Scientists Conference in Computational Science (YSC 2019), Greece, 24-28 June 2019.
+IEEE The International Science and Technology Conference (MoNeTec 2018)  Moscow, Russia, October 25-26, 2018.
+7th International Young Scientists Conference in High Performance Computing and Simulation (YSC 2018), Russia, July 2-6, 2018
+6th International Young Scientists Conference in High Performance Computing and Simulation (YSC 2017), Russia, Nov 1-3, 2017
+5th International Young Scientists Conference in High Performance Computing and Simulation (YSC 2016), Russia, 2016  
+IEEE International Conference on Software, Knowledge, Information Management and Applications, 2015–2018, http://skimanetwork.info/
+REVIEW (JOURNALS):
+
+International Journal of E-Learning & Distance Education, 2017 http://www.ijede.ca
+Informing Science and IT Education Conference, Vietnam, 2016 http://insite.nu
+The International Review of Research in Open and Distributed Learning, 2016 http://www.irrodl.org
+Journal of Information Technology Education: Research, 2016, https://www.informingscience.org/Journals/JITEResearch/Overview
+GRANTS/FUNDING:
+
+Training Grant from University Grants Commission, Nepal to organize 3-Day Training on Data Analysis, 2019, ~$1000.
+Research Grant by Nepal Academy of Science and Technology (NAST), Nepal. 2017–2018, ~$2,000.
+Research Grant by International Development Research Center (IDRC), Canada & FIT-ED, The Philippines. 2016–2017, ~$30,000.
+Workshop Grant from the University Grants Commission, Nepal to organize a 3-Day Workshop on Understanding Plagiarism. 2017, ~$1,000.
+Training Grant from the University Grants Commission, Nepal to organize a 3-Day Training on Data Analysis using R, 2016, ~$1000
+Training Grant from the University Grants Commission, Nepal to organize a 3-Day Training on Entrepreneurship and Incubation, 2016, ~$1000.
+Training Grant from the University Grants Commission, Nepal to organize a 3-Day Training on Research Methodology. 2015, ~$1,000.
+Training Grant from the University Grants Commission, Nepal to organize a 2-Day Training on eLearning Through Moodle, 2014, ~$700
+Workshop on Academia-Industry Dialogue supported by University Grants Commission, Nepal, 2013.
+Grant to establish a Research Management Cell at the School of Engineering Kathmandu University. Received from University Grants Commission, Nepal. 2012, ~$10,000.
+Workshop on Webpage Design and Development, Supported by Room To Read, Nepal, 2012.
+HONORS AND AWARDS:
+
+Singapore International Graduate Award (SINGA Scholarship) for PhD program (2019–2023).
+Shanghai Open University International Staff Exchange Fellowship Program (International Visiting Scholar Program), 10-21 June 2019.
+Erasmus Mundus Scholarship (2 months), INTACT Project, Greece, 2014
+Full Scholarship to participate in e-learning Technology Training, Sri Lanka, 2009.
+Third Position in Open Source Software Competition, 2009.
+Chinese Government Scholarship for Master Program, 2003.
+PROFESSIONAL EXPERIENCES:
+
+Moderator, Panel Discussion: "Date Security Challenges", National Conference on Data and Computing, Kathmandu University, Nepal, 4 October 2024. 
+Panelist, Panel Discussion: "The Future of AI and Data Science in Nepal and How It Can Empower Business", Sunway College, Nepal, 24 September 2024. 
+Session Chair, Conference on Innovation in Computing, Science, Engineering, and Technology, Nepal College of Information Technology, Nepal, 30 August 2024.
+Panelist, Panel Discussion: "Unlocking the Strength of AI: Transforming Industries and Changing Lives", KCC Conference, Nepal, 16 August 2024
+Session Chair, eLearning Forum Asia, Bangkok, Thailand, 2019.
+MOOC Expert, Research on Implementing MOOC on Faecal Sludge Management, supported by Bills and Melinda Gates Foundation, USA and implemented by Kathmandu Univeristy, Nepal, 2018.
+Resource Person, Training on Research Proposal Writing, 18 -20 June, Purbancha University, Nepal 2018.
+Resource Person, Workshop on Understanding Plagiarism, 1-3 June, Western Regional College (Institute of Engineering), Nepal 2018.
+Resource Person, Training on Research Methodology, 25 -27 May, Kantipur Engineering College (Affiliated to Purbancha University), Nepal 2018.
+Member, Subject Committee, MEd in STEAM Education, Kathmandu University (2018-Present)
+Member, Kathmandu University Policy on Academic Integrity Committee (2017-2018).
+Resource Person, Training on Research Writing, 2 - 4 July, Pokhara University, Nepal 2017.
+Resource Person, Training on Research Methodology, 28 June-30 June, Western Regional College (Institute of Engineering), Nepal 2017.
+Resource Person, Workshop on Understanding Plagiarism, 21-23 June, Kathmandu University, Nepal 2017.
+Member, Subject Committee, B.Sc. in Computational Mathematics, Kathmandu University (2017-2018).
+Resource Person, Training on Data Analysis Using R, 22-24 June, Kathmandu University, Nepal 2016.
+Resource Person, Training on Research Methodology, 29 June-01 July, Kathmandu University, Nepal 2015.
+Session Chair, International Conference on Software, Knowledge Information, Industrial Management and Applications (SKIMA 2015), Nepal, 2015.
+Resource Person, Workshop on eLearning Through Moodle, 19-20 July, Kathmandu University, Nepal 2014.
+Member, Research Committee, School of Engineering, Kathmandu University (2010-2013).
+Member, Subject Committee, Department of Computer Science and Engineering (2010-2013).
+Abdul Haleem Butt, Muhammad Ali Jamshed, Ata Ur Rahman, and Faiz Alam, Manoj Shakya, Ahmad S. Almadhor, Masoor Ur-Rehman (2023). Impact of Tree Cover Loss on Carbon Emission: A Learning-Based Analysis. Computational Intelligence and Neuroscience
+Manoj Shakya, Bu-Sung Lee, and Huey Yuen Ng (2022). A Deep Reinforcement Learning Approach for Inventory Control under Stochastic Lead Time and Demand. IEEE Symposium Series on Computational Intelligence, Singapore
+Manoj Shakya, Huey Yuen Ng, Darrell Joshua Ong, and Bu-Sung Lee (2022). Reinforcement learning approach for multi-period inventory with stochastic demand. IFIP International Conference on Artificial Intelligence Applications and Innovations, Crete, Greece
+Uzma Mohammad Ghulam, Salma Imiaz, Manoj Shakya, and Ahmad Almadhor, Fareeha Anwar (2022). An optimized feature selection method using ensemble classifiers in software defect prediction for healthcare systems. Wireless Communications and Mobile Computing
+Bu Sung Lee, Romphet Phattharaphon, Seanglidet Yean, and Jigang Liu, Manoj Shakya (2020). Euclidean distance based loss function for eye-gaze estimation. IEEE Sensors Applications Symposium, Kuala Lumpur, Malaysia
+Manoj Shakya, and Sushil Shrestha (2019). Learning Computer Programming through Nepal’s First MOOC: Learners’ Experiences. eLearning Forum Asia, Bangkok, Thailand,
+Sushil Shrestha, Rabin Shrestha, Manish Chaulagain, and Manoj Shakya, Manish Pokharel (2018). Learning Styles in Educational Technology. International Conference on Humanities and Social Sciences, Buriram, Thailand
+Manoj Shakya, Sushil Shrestha, and Rajesh Manandhar (2018). MOOCs for Higher Education in Nepal. oundation for Information Technology Education and Development, The Phillipines
+Manoj Shakya, Rajesh Manandhar, Sushil Shrestha, and Manish Pokharel (2018). Teacher Perceptions of E-learning for Teaching in Science and Engineering. nternational Conference on Humanities and Social Sciences, Buriram, Thailand
+Manoj Shakya, Sushil Shrestha, and Rajesh Manandhar (2017). Initiation of MOOC in Nepal by Kathmandu University. National Conference on ICT-Integrated Pedagogy for Effective and Meaningful Learning, Kathmandu, Nepal
+Bijaya Shrestha, Ruby Shestha, and Manoj Shakya (2017). Blended Learning in DWIT College: From Learners Perspective. International Conference on Information Technology for Development, Kathmandu, Nepal
+Sangam Uprety, and Manoj Shakya (2017). Role of Context Clue Sentences as Dictionary Examples. Journal of University Grants Commission, Bhaktapur, Nepal
+Manoj Shakya, Sushil Shrestha, Rajesh Manandhar, and Manish Joshi, Prasamsa Khanal (2017). Reflections on First MOOC of Nepal: From Learners Perspective. International Conference on Open and Innovative Education, Hong Kong, China,
+Manoj Shakya (2017). Challenges and Opportunities of Cloud Computing in Nepal. 9th China Cloud Computing Conference, Beijing, China
+Bijaya Shrestha, Manoj Shakya, and Sameer Koirla (2016). Load Capacity Testing of Moodle Server: Experimenting Quiz Application. International Conference on Information Technology for Development, Kathmandu, Nepal
+Manoj Shakya, Sushil Shrestha, and Rajesh Manandhar (2016). Awareness of MOOC Among College Students: A Study Of Far Western Region of Nepal. International Conference on Information Technology for Development, Kathmandu, Nepal
+Bijaya Shrestha, Nikita Gautam, and Manoj Shakya (2016). Flipped Clas: New eLearning Object in Nepal and Perspective of Teachers. International Conference on Information Technology for Development, Kathmandu, Nepal
+Sameer Tamrakar, Manoj Shakya, and Anand Singh (2015). Load Balancing for High Traffic Web Server in Cloud. 9th International Conference on Software, Knowledge, Information Management and Applications, Kathmandu, Nepal
+Amrita Rai, and Manoj Shakya (2015). SKIMA Cloud Technology for Higher Education. 9th International Conference on Software, Knowledge, Information Management and Applications, Kathmandu, Nepal

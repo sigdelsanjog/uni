@@ -1,0 +1,82 @@
+Education
+
+Oct 2013 - Oct 2016: PhD in Machine Learning and Data Mining
+
+Université de Nantes, France
+
+Title: A new horizon for the recommendation: Integration of spatial dimensions to aid decision making
+
+ 
+
+Sep 2011 - Jul 2013: Master Erasmus Mundus in Data Mining and Knowledge Management
+
+Université Lyon 2 (France), Université de Nantes (France), Université Paris 6 (France), Universitatea Politehnica din Bucuresti (Romania)
+
+Sep 2003 – Jan 2008: Bachelor in Computer Engineering
+
+Pulchowk Campus, Tribhuvan University, Nepal
+
+Academic Positions
+
+Jul 2021 - Present: Assistant Professor
+
+Department of Computer Science and Engineering, School of Engineering, Kathmandu University, Nepal
+
+Aug 2018 - Jul 2021: Lecturer
+
+Department of Computer Science and Engineering, School of Engineering, Kathmandu University, Nepal
+
+Jul 2010 – Apr 2011: Course Instructor
+
+Department of Electronics and Computer Engineering, Pulchowk Campus, Tribhuvan University, Nepal
+
+Dec 2008 - Apr 2009: Lab Instructor
+
+Himalaya College of Engineering, Nepal
+
+Professional Experience
+
+May 2017 – Jun 2018: R&D Engineer
+
+Capacités SAS ● Université de Nantes, France
+
+Oct 2013 – Oct 2016: PhD Researcher
+
+Laboratoire d’Informatique de Nantes Atlantique (cka Laboratoire des Sciences du Numérique de Nantes) ● DataForPeople, France
+
+Aug 2013 – Oct 2013: Senior Software Engineer
+
+meroJob.com, Nepal
+
+Feb 2013 – Jul 2013: Intern (Research and Development)
+
+Laboratoire d’Informatique de Nantes Atlantique, France
+
+Jul 2012 – Jul 2012: Intern (Research and Development)
+
+Laboratoire d’Informatique de Nantes Atlantique, France
+
+Mar 2008 – Aug 2011: (Senior) Software Engineer
+
+D2HawkeyeServices Pvt. Ltd. (nka Cotiviti Nepal Pvt. Ltd.), Nepal
+
+Aug 2007 – Feb 2008: Intern
+
+D2HawkeyeServices Pvt. Ltd. (nka Cotiviti Nepal Pvt. Ltd.), Nepal
+
+May 2007 – Jul 2007: Intern
+
+meroJob.com, Nepal
+Research Interests
+
+Recommender Systems
+Statistical Relational Learning
+Probabilistic Graphical Models
+Geographical Data Analysis
+Chulyadyo, R., & Leray, P. (2018). Using Probabilistic Relational Models to generate synthetic spatial or non-spatial databases. 12th International Conference on Research Challenges in Information Science (RCIS)
+Chulyadyo, R., & Leray, P. (2017). A Framework for Offline Evaluation of Recommender Systems based on Probabilistic Relational Models. Technical Report, Laboratoire des Sciences du Numérique de Nantes; Capacités SAS
+Chulyadyo, R. (2016). A new horizon for the recommendation: Integration of spatial dimensions to aid decision making. Doctoral dissertation, Université de Nantes
+Ishak, M. B., Chulyadyo, R., & Leray, P. (2016). Probabilistic relational model benchmark generation. arXiv preprint arXiv:1603.00709.
+Chulyadyo, R., & Leray, P. (2015). Integrating spatial information into probabilistic relational models. IEEE International Conference on Data Science and Advanced Analytics (DSAA)
+Chulyadyo, R., & Leray, P. (2014). A Personalized Recommender System from Probabilistic Relational Model and Users' Preferences. KES
+Chulyadyo, R., Harzallah, M., & Berio, G. (2013). Core Ontology based Approach for Treating the Flatness of Automatically Built Ontology. KEOD

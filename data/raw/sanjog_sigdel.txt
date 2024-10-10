@@ -1,0 +1,43 @@
+Academic Experience
+
+Lecturer (September 2024 - Present)
+
+Department of Computer Science and Engineering
+
+School of Engineering, Kathmandu University (KU)
+
+Subjects:
+COMP 472 Artificial Intelligence
+COMP 232 Database Management System
+Visiting Faculty (Feb 2023-August 2024)
+Department of Computer Science and Engineering
+
+School of Engineering, Kathmandu University (KU)
+
+Contributed to the Subject Committee as an invitee representing Industry Expertise in developing the course curriculum for Principle of Health Information System for Bachelors in Health Informatics Program organized by School of Engineering
+Supervision of Graduate Research Project and Thesis
+Subject: Principle of Health Information Systems to Masters Program in Health Informatics Students
+Visiting Lecturer (Jan 2021 - Mar 2023)
+NIST College Banepa 
+
+Supervised Major Projects of undergraduate students of CSIT, BIM and BCA programs
+Evaluated Internship Reports
+Subjects:
+Digital Logic
+Operating System
+Artificial Intelligence
+Database Management System
+Data Mining and Data Warehousing
+Web Technology
+Software Project Management
+Google Scholar: https://scholar.google.com/citations?user=c24maKAAAAAJ&hl=en&oi=ao
+Research Gate: https://www.researchgate.net/profile/Sanjog-Sigdel
+Advisor (September 2024 - Present)
+Kathmandu University Computer Club
+A Summary on “Above the Clouds: A Berkeley View of Cloud Computing” S Sigdel Kathmandu University	2	2018
+Extended Study of Gait Analysis in Identification of Cardiovascular Diseases R Bista, S Sigdel, JC Ferreira, International Journal of Computer Information Systems and Industrial …		2024
+Software Requirements Specification of E-Health Architecture for Nepal S Sigdel http://dx.doi.org/10.13140/RG.2.2.17207.57764		2017
+A Note On The Fibonacci Sequence, S Sigdel, B Dahal, S Rijal, J Kanhaiya Eureka, An International Journal of Mathematics 3 (2392-4233), 41-45		2016
+Assistive Domotics: Logical Design of Automated Home and Movement of Wheelchair in a Smart Home S Sigdel Kathmandu University		2015
+Internet Protocol Version 6 (IPv6) S Sigdel Kathmandu University		2014
+Gait Analysis in Early Identification of Cardiovascular Diseases Using Mpu-6050 Sensor: Analysis Framework, Data Augmentation, and Prediction Model R Bista, S Sigdel, S Phuyal, JC Ferreira Data Augmentation, and Prediction Model		

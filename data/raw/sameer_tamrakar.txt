@@ -1,0 +1,11 @@
+Assistant Professor,
+Department of Computer Science and Engineering, School of Engineering
+ Kathmandu University, Dhulikhel
+011-440979(H)
+sameer.tamrakar@ku.edu.np
+Research Areas:Cloud Computing, Algorithms, Distributed Computing and Emerging Technologies.
+
+Program Coordinator| Computer Science Program (2075-09-05 to 2078-04-31)
+
+Principal Investigator, Learning Management System through Kathmandu High Performance Computing (KU-HPC) Cloud
+Sameer Tamrakar, Anand Singh, Manoj Shakya (2015). Load Balancing for High Traffic Web Server in Cloudver. SKIMA 2015

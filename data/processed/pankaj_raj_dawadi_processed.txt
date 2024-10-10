@@ -1,0 +1,75 @@
+phd in computer engineering may 2018  ongoing
+
+thesis title performance measurement using machine learning approach a perspective from smart transportation department of computer science and engineering kathmandu university dhulikhel nepal
+
+research domain image processing machinedeep learning computer vision
+
+master in computer and information engineering
+
+thesis title feature variance and adaptive classifier for efficient face recognition 22 february 200621 february 2008 intelligent technology lab inha university incheon south korea
+
+research domain face recognition machine learning image processing
+
+bachelor in computer engineering
+
+kathmandu engineering college kalimati kathmandu nepal 10 september 199909 september 2003
+honors and awards
+
+erasmus ka107 phd mobility university of malaga malaga spain  4th october 2021 to 4th march 2022
+fulltime phd mobility erasmus mundus intact wroclaw university of technology wroclaw poland decided to terminate due to family reasons
+staff training mobility erasmus mundus strong ties wroclaw university of technology wroclaw poland01 october 201330 november 2013
+juenseok international student scholarship inha university march2006  february2008
+bk21 scholarship inha university august 2007february 2008
+teaching assistantship inha university march 2007 february 2008
+
+thesis guidance
+
+nisha lamichhane software testing challenges in practice in the context of webbased application 2013
+prakash gautam keystroke biometric system for touch screen text input on android devices 2018
+santosh mahato an efficient approach for action recognition in sports videos implementing mtse into videos 2019
+sahit baral pothole detection using deep learning algorithm2023
+jen bati ranjana script handwritten character recognition using cnn2023
+akash adhikari motion prediction for autonomous vehicles 2023
+sumanta silwal  enhance maize diseases classification using efficient ensemble cnn pretrained models2023
+technical committees and participation
+
+program committee member 2019 international conference on health informatics and clinical analytics httpswwwcmraiorgconferencenepal
+participant sanog xii tutorial session on network for research and education in campus august 1112 2008 kathmandu nepal httpswwwsanogorgsanog12
+participant international unnayan 2003 an international tech meet february 12th  15th 2003 birla institute of technology ranchi india
+paper presenter fifth international conference on advances in computing and data sciences icacds 2021 mvpskarmaveer baburao ganpatrao thakare college of engineering nashik maharashtra india april 2021 the conference was held virtually due to the pandemic httpswwwicacdscom
+think tank member policy research institute government of nepal httpsprigovnp
+acting head department of computer science and engineering kathmandu university effective from 31st july 2024 for 3 years
+
+undergraduate program coordinator 16th july 2012 to 16th july 2013 department of computer science and engineering kathmandu university dhulikhel kavre nepal
+
+responsible for handling a team of 11 academic staff and 4 administrative staff
+responsible for managing semester courses of undergraduate level
+responsible for communicating with higher authorities within the university
+internship and placement coordinator 16th july 2013 to 15th november 2018 department of computer science and engineering kathmandu university dhulikhel kavre nepal
+
+responsible for handling the internship program of 120 computer science and computer engineering students
+communication with different it industries for knowledge dissemination industry academia dialogue shortterm training programs for industrial and academic human resource
+placement confirmation for undergraduate and graduate students
+team leader curriculum drafting committee bachelor of technology in artificial intelligence 2020  2021
+
+design of course curriculum of four years bachelor degree in artificial intelligence at kathmandu university
+subject committee member computer science and engineering curriculum  2017  2019 department of computer science and engineering kathmandu university
+
+bachelor of information technology subject committee member  2023 2026 department of computer science and engineering kathmandu university
+
+digital governance and policy development subject committee member 2024 onwards department of computer science and engineering kathmandu university
+
+bachelor of technology in artificial intelligence invited subject committee member 2021 to present department of artificial intelligence
+
+external thesis examiner 2015  present purbanchal university tribhuwan university
+bishal neupane nigam niraula nirjal bhurtel jenisha khulal magar pankaj raj dawadi 2023 hybrid approach for enhancing traffic signal control with computer vision and reinforcement learning 2023 14th international conference on computing communication and networking technologies icccnt
+akash adhikari pankaj raj dawadi 2023 motion prediction for autonomous vehicles using deep learning techniques 2023 14th international conference on computing communication and networking technologies icccnt
+pankaj raj dawadi bal krishna bal manish pokharel 2023 devanagari license plate detection classification and recognition first international conference on advances in computer vision and artificial intelligence technologies acvait 2022
+jen bati pankaj raj dawadi 2023 ranjana script handwritten character recognition using cnn joiv international journal on informatics visualization
+dawadi pr pokharel m bal bk 2022 an approach to enhance the character recognition accuracy of nepalese license plate 2022
+dawadi pr pokharel m bal bk 2021 an approach of devanagari license plate detection and recognition using deep learning singh m tyagi v gupta pk flusser j ören t sonawane vr eds advances in computing and data sciences icacds 2021 communications in computer and information science vol 1441 springer cham
+p gautam and p r dawadi 2017 keystroke biometric system for touch screen text input on android devices optimization of equal error rate based on medians vector proximity 11th international conference on software knowledge information management and applications skima 2017 pp 17
+ m r bashar s k kang p r dawadi and p k rhee 2007 a contextaware statistical ontology approach for adaptive face recognition frontiers in the convergence of bioscience and information technologies 2007 pp 698703
+rezaul bashar pankaj raj dawadi eun sung jung and phill kyu rhee 2007 an approach of cluster validity on gabor wavelet based adaptive face recognition int j knowbased intell eng syst 11 4 december 2007 219225
+sedai s jin ke dawadi pr rhee pk 2007 use of multiple contexts for real time face identification gagalowicz a philips w eds computer visioncomputer graphics collaboration techniques mirage 2007 lecture notes in computer science vol 4418 springer berlin
+pankaj raj dawadi nam mi young and phill kyu rhee 2007 feature variance and adaptive classifier for efficient face recognition  korean information processing society nov 16 2007

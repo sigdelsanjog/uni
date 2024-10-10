@@ -1,0 +1,98 @@
+research areas 
+
+deep learning natural language processing machine learning computational argumentation
+
+education
+
+phd in computer science december 2018 university of evora portugal
+
+ 
+
+thesis automatic extraction and structure of arguments in legal documents
+
+master degree in computer engineering october 2009  july 2012 kathmandu university dhulikhel nepal
+
+ 
+
+thesis an hybrid approach in named entity extraction and automatic ontology population in legal domain
+
+note thesis work is from the department of informatics university of evora portugal as an exchange student
+
+bachelor in computer engineering 20002004 kathmandu university dhulikhel nepal
+
+intermediate science isc 19982000 kathmandu university dhulikhel nepal
+
+publication
+
+prakash poudyal jaromir savelka aagje ieven marie francine moens teresa goncalves and paulo quaresma echr legal corpus for argument mining in proceedings of the 7th workshop on argument mining pages 6775 online december 2020 association for computational linguistics
+
+prakash poudyal teresa goncalves and paulo quaresma using clustering techniques to identify arguments in legal documents in kevin ashley katie atkinson karl branting enrico francesconi matthias grabmair bernhard walti vern walker and adam wyner editors proceedings of the third workshop on automated semantic analysis of information in legal texts colocated with the 17th international conference on artificial intelligence and law icail 2019 volume 2385 ceur 2019 montreal qc canada 8 pages
+
+prakash poudyal automatic extraction and structure of arguments in legal documents doctoral dissertation 2018 university of evora portugal
+
+prakash poudyal teresa gonçalves and paulo quaresma an architecture for the automatic identification of arguments in legal documents the 2nd international workshop on methodologies for research on legal argumentation metarg at waw 2018 warsaw argumentation week september 15th 2018 warsaw
+
+prakash poudyal teresa gonçalves and paulo quaresma experiments on identification of argumentative sentences in proceedings of the skima  software knowledge information management and applications conference pages 398403 ieee 2016
+
+prakash poudyal automatic extraction and structure of arguments in legal documents proceedings of the second summer school of argumentation computational and linguistic perspectives ssa 16 corr abs160802441
+
+prakash poudyal a machine learning approach to argument mining in legal documents vi workshop on artificial intelligence and the complexity of legal systems aicol jurix 2015 9th11th december 2015 university of minho braga portugal best paper
+
+prakash poudyal teresa gonçalves and paulo quaresma the influence of training data on the performance of the svmcmm algorithm jiue2014  jornadas de informtica da universidade de evora universidade de evora isbn 9789899706026 february 2014
+
+mohammad moinul hoque prakash poudyal teresa gonçalves and paulo quaresma information retrieval based on extraction of domain specific significant keywords and other relevant phrases from a conceptual semantic network structure forum for information retrieval evaluation fire 4th  6th december 2013 india international center new delhi india
+
+prakash poudyal and paulo quaresma an hybrid approach for legal information extraction in burkhard schafer editor  legal knowledge and information systems  jurix 2012 the twentyfifth annual conference university of amsterdam the netherlands 1719 december 2012 volume 250 of frontiers in artificial intelligence and applications pages 115118 ios press 2012
+
+prakash poudyal luis borrego and paulo quaresma using machinelearning algorithms to identify named entities in legal documents a preliminary approach jiue2011  jornadas de informtica da universidade de evora universidade de evora isbn 9789899706026 november 2011
+
+seminars and conferences
+
+30th international conference on legal knowledge and information systems jurix 2017 from december 1315 2017 university of luxembourg luxembourg
+
+6th international conference on computational models of argument comma 2016 university of potsdam potsdam germany september 1416 2016
+
+6th conference in information technology  department of informatics university of evora jiue2016 march 31 2016
+
+28th international conference on legal knowledge and information systems jurix 2015 from december 915 december 2015 university of minho braga portugal
+
+4th conference in information technology department of informatics university of evora jiue2014 february 27 and 28 2014
+
+2nd conference in information technology department of computer science university of evora jiue2011 november 16 2011
+
+asiabsd conference asiabsdcon 2008 from march 27 30 2008 tokyo university of science tokyo japan
+
+international conference on the teaching of mathematical modeling and applications ictma from june 2529 2007 kathmandu university nepal
+
+summer school and workshops
+
+participated in centre for argument technology to learn more about techniques for argument mining from august 1519 2017 argtech dundee university scotland
+
+the first international workshop on systems and algorithms for formal argumentation safafrom september 13 2016 university of potsdam germany
+
+the first international workshop on systems and algorithms for formal argumentation safa from september 13 2016 university of potsdam germany
+
+certificate of participation in the second summer school on argumentation computational and linguistic perspectives from september 812 2016 at potsdam university potsdam germany
+
+certificate of participation in lxmls 2014 lisbon machine learning school from july 2229 2014 at instituto superior tecnico lisbon portugal
+
+certificate of attendance advanced graphics processing for manufacturing 1315 september 2010 kathmandu university dhulikhel nepal
+
+certificate of completion of training national seminar on developing ict in education master plan 2225 june 2010 organized by ministry of education government of nepal kathmandu nepal
+
+certificate of achievement in information technology and management from november 5 to 16 2007 at the asian institute of technology ait thailand
+
+certificate of participation in system and network administration and security from january 2 to march 17 2007 at computer point nepal
+won second prize in invoation day in pact  parque do alentejo de ciência e tecnologia on 27th november 2017 evora portugal
+
+best doctoral consortium paper award received 200 as amazon gift card  in 28th international conference on legal knowledge and information systems jurix 2015 from december 915 december 2015 university of minho braga portugal
+
+erasmus mundus mobility with asia emma scholarship september 2013 august 2016 funded by the european commission to study doctoral degree in the department of computer science at the university of evora portugal
+
+erasmus mundus mobility with asia emma scholarship september 2011 august 2012 funded by the european commission to study master degree program in the department of computer science at the university of evora portugal
+
+full scholarship from kathmandu university to study master degree in computer engineering in department of computer science and engineering kathmandu university nepal from september 2009 august 2011
+
+travel grant received from freebsd foundation colorado usa to participate in asiabsd conference asiabsdcon 2008 tokyo university of science tokyo japan
+
+partial scholarship from kathmandu university to study undergraduate degree in engineering in computer engineering in department of computer science and engineering kathmandu university nepal from 2000 to 2004

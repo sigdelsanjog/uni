@@ -1,0 +1,124 @@
+httpsmanojshakyacomnp
+
+academics
+
+phd in artificial intelligence nanyang technological university singapore 20192024
+me in computer science and technology hunan university china 20032006
+be in computer science and engineering kathmandu university nepal 19972001
+research interests
+
+artificial intelligence and machine learning aiml
+deep learning dl
+deep reinforcement learning drl
+data science ds
+experiences
+
+assistant professor 2008present kathmandu university nepal
+software developer 20062008 javra software nepal
+lecturer 20012003 champion kathmandu college kathmandu nepal
+seminarinvited talks
+
+the performance of deep qnetwork for inventory optimization kathmandu university nepal 2024
+deep reinforcement learning from basics to cutting edge lincoln international college nepal 2024
+reinforcement learning for industry 40 supply chain the international science and technology conference monetec 2020 moscow russia 2020
+cloud computing in nepal trends situations and perspectives the international science and technology conference monetec 2018 moscow russia 2019
+cloud computing in nepal status the 2nd world intelligence congress wic 2018 tianjin china 2018
+artificial intelligence in journalism knowledge enhancement workshop chitwan nepal 2018
+massive open online courses challenges and opportunities international seminar on ict enabled teaching and learning titi nepal 2017
+research opportunities for undergraduate students deerwalk institute of technology nepal 2017
+cloud computing trends and opportunities ace institute of management nepal 2010
+grid computing challenges and opportunities white house education network nepal 2008
+professional memberships
+
+nepal research and education network 2017present general member
+nepal research and education network 20182020 executive member
+ieee member 2017present
+ieee computer society member 2020present
+information technology professional forum 2010present
+technical program committee
+
+ieee 10th international conference on business and industrial research icbir 2025 bangkong thailand may 2223 2025
+ieee frontiers in education fie 2024 washington dc usa october 1316 2024
+ieee 9th international conference on business and industrial research icbir 2024 bangkong thailand may 2324 2024
+ieee the international science and technology conference monetec 2024 moscow russia october 2931 2024
+12th international young scientists conference in computational science ysc 2023 abu dhabi uae october 914 2023
+ieee 5th international conference on high performance big data and intelligent systems hdis 2023  macau china december 68 2023
+the international science and technology conference monetec 2022  moscow russia october 2728 2022
+10th international young scientists conference in computational science ysc 2021 greece june 28  july 2 2021
+9th international young scientists conference in computational science ysc 2020 greece june 2227 2020
+ieee international science and technology conference monetec 2020 moscow russia october 2022 2020
+8th international young scientists conference in computational science ysc 2019 greece 2428 june 2019
+ieee the international science and technology conference monetec 2018  moscow russia october 2526 2018
+7th international young scientists conference in high performance computing and simulation ysc 2018 russia july 26 2018
+6th international young scientists conference in high performance computing and simulation ysc 2017 russia nov 13 2017
+5th international young scientists conference in high performance computing and simulation ysc 2016 russia 2016  
+ieee international conference on software knowledge information management and applications 20152018 httpskimanetworkinfo
+review journals
+
+international journal of elearning  distance education 2017 httpwwwijedeca
+informing science and it education conference vietnam 2016 httpinsitenu
+the international review of research in open and distributed learning 2016 httpwwwirrodlorg
+journal of information technology education research 2016 httpswwwinformingscienceorgjournalsjiteresearchoverview
+grantsfunding
+
+training grant from university grants commission nepal to organize 3day training on data analysis 2019 1000
+research grant by nepal academy of science and technology nast nepal 20172018 2000
+research grant by international development research center idrc canada  fited the philippines 20162017 30000
+workshop grant from the university grants commission nepal to organize a 3day workshop on understanding plagiarism 2017 1000
+training grant from the university grants commission nepal to organize a 3day training on data analysis using r 2016 1000
+training grant from the university grants commission nepal to organize a 3day training on entrepreneurship and incubation 2016 1000
+training grant from the university grants commission nepal to organize a 3day training on research methodology 2015 1000
+training grant from the university grants commission nepal to organize a 2day training on elearning through moodle 2014 700
+workshop on academiaindustry dialogue supported by university grants commission nepal 2013
+grant to establish a research management cell at the school of engineering kathmandu university received from university grants commission nepal 2012 10000
+workshop on webpage design and development supported by room to read nepal 2012
+honors and awards
+
+singapore international graduate award singa scholarship for phd program 20192023
+shanghai open university international staff exchange fellowship program international visiting scholar program 1021 june 2019
+erasmus mundus scholarship 2 months intact project greece 2014
+full scholarship to participate in elearning technology training sri lanka 2009
+third position in open source software competition 2009
+chinese government scholarship for master program 2003
+professional experiences
+
+moderator panel discussion date security challenges national conference on data and computing kathmandu university nepal 4 october 2024 
+panelist panel discussion the future of ai and data science in nepal and how it can empower business sunway college nepal 24 september 2024 
+session chair conference on innovation in computing science engineering and technology nepal college of information technology nepal 30 august 2024
+panelist panel discussion unlocking the strength of ai transforming industries and changing lives kcc conference nepal 16 august 2024
+session chair elearning forum asia bangkok thailand 2019
+mooc expert research on implementing mooc on faecal sludge management supported by bills and melinda gates foundation usa and implemented by kathmandu univeristy nepal 2018
+resource person training on research proposal writing 18 20 june purbancha university nepal 2018
+resource person workshop on understanding plagiarism 13 june western regional college institute of engineering nepal 2018
+resource person training on research methodology 25 27 may kantipur engineering college affiliated to purbancha university nepal 2018
+member subject committee med in steam education kathmandu university 2018present
+member kathmandu university policy on academic integrity committee 20172018
+resource person training on research writing 2  4 july pokhara university nepal 2017
+resource person training on research methodology 28 june30 june western regional college institute of engineering nepal 2017
+resource person workshop on understanding plagiarism 2123 june kathmandu university nepal 2017
+member subject committee bsc in computational mathematics kathmandu university 20172018
+resource person training on data analysis using r 2224 june kathmandu university nepal 2016
+resource person training on research methodology 29 june01 july kathmandu university nepal 2015
+session chair international conference on software knowledge information industrial management and applications skima 2015 nepal 2015
+resource person workshop on elearning through moodle 1920 july kathmandu university nepal 2014
+member research committee school of engineering kathmandu university 20102013
+member subject committee department of computer science and engineering 20102013
+abdul haleem butt muhammad ali jamshed ata ur rahman and faiz alam manoj shakya ahmad s almadhor masoor urrehman 2023 impact of tree cover loss on carbon emission a learningbased analysis computational intelligence and neuroscience
+manoj shakya busung lee and huey yuen ng 2022 a deep reinforcement learning approach for inventory control under stochastic lead time and demand ieee symposium series on computational intelligence singapore
+manoj shakya huey yuen ng darrell joshua ong and busung lee 2022 reinforcement learning approach for multiperiod inventory with stochastic demand ifip international conference on artificial intelligence applications and innovations crete greece
+uzma mohammad ghulam salma imiaz manoj shakya and ahmad almadhor fareeha anwar 2022 an optimized feature selection method using ensemble classifiers in software defect prediction for healthcare systems wireless communications and mobile computing
+bu sung lee romphet phattharaphon seanglidet yean and jigang liu manoj shakya 2020 euclidean distance based loss function for eyegaze estimation ieee sensors applications symposium kuala lumpur malaysia
+manoj shakya and sushil shrestha 2019 learning computer programming through nepals first mooc learners experiences elearning forum asia bangkok thailand
+sushil shrestha rabin shrestha manish chaulagain and manoj shakya manish pokharel 2018 learning styles in educational technology international conference on humanities and social sciences buriram thailand
+manoj shakya sushil shrestha and rajesh manandhar 2018 moocs for higher education in nepal oundation for information technology education and development the phillipines
+manoj shakya rajesh manandhar sushil shrestha and manish pokharel 2018 teacher perceptions of elearning for teaching in science and engineering nternational conference on humanities and social sciences buriram thailand
+manoj shakya sushil shrestha and rajesh manandhar 2017 initiation of mooc in nepal by kathmandu university national conference on ictintegrated pedagogy for effective and meaningful learning kathmandu nepal
+bijaya shrestha ruby shestha and manoj shakya 2017 blended learning in dwit college from learners perspective international conference on information technology for development kathmandu nepal
+sangam uprety and manoj shakya 2017 role of context clue sentences as dictionary examples journal of university grants commission bhaktapur nepal
+manoj shakya sushil shrestha rajesh manandhar and manish joshi prasamsa khanal 2017 reflections on first mooc of nepal from learners perspective international conference on open and innovative education hong kong china
+manoj shakya 2017 challenges and opportunities of cloud computing in nepal 9th china cloud computing conference beijing china
+bijaya shrestha manoj shakya and sameer koirla 2016 load capacity testing of moodle server experimenting quiz application international conference on information technology for development kathmandu nepal
+manoj shakya sushil shrestha and rajesh manandhar 2016 awareness of mooc among college students a study of far western region of nepal international conference on information technology for development kathmandu nepal
+bijaya shrestha nikita gautam and manoj shakya 2016 flipped clas new elearning object in nepal and perspective of teachers international conference on information technology for development kathmandu nepal
+sameer tamrakar manoj shakya and anand singh 2015 load balancing for high traffic web server in cloud 9th international conference on software knowledge information management and applications kathmandu nepal
+amrita rai and manoj shakya 2015 skima cloud technology for higher education 9th international conference on software knowledge information management and applications kathmandu nepal

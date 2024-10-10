@@ -1,0 +1,75 @@
+Ph.D. in Computer Engineering (May 2018 - ongoing)
+
+Thesis Title: “PERFORMANCE MEASUREMENT USING MACHINE LEARNING APPROACH: A PERSPECTIVE FROM SMART TRANSPORTATION” Department of Computer Science and Engineering, Kathmandu University, Dhulikhel, Nepal
+
+Research Domain: Image Processing, Machine/Deep Learning, Computer Vision
+
+Master in Computer and Information Engineering
+
+Thesis Title: “Feature Variance and Adaptive Classifier for Efficient Face Recognition” 22 February 2006–21 February 2008 Intelligent Technology Lab, Inha University, Incheon, South Korea
+
+Research domain: Face Recognition, Machine Learning, Image Processing
+
+Bachelor in Computer Engineering
+
+Kathmandu Engineering College, Kalimati, Kathmandu, Nepal (10 September 1999–09 September 2003)
+Honors and Awards
+
+Erasmus+ KA107 Ph.D. Mobility, University of Malaga, Malaga, Spain ( 4th October 2021 to 4th March 2022)
+Full-time Ph.D. mobility, Erasmus Mundus INTACT, Wroclaw University of Technology, Wroclaw, Poland (decided to terminate due to family reasons)
+Staff Training Mobility, Erasmus Mundus Strong Ties, Wroclaw University of Technology, Wroclaw (Poland),01 October 2013–30 November 2013
+Juen-Seok International Student Scholarship, Inha University, March/2006 – February/2008
+BK21 Scholarship, Inha University August 2007-February, 2008
+Teaching Assistantship, Inha University March 2007- February 2008
+
+Thesis Guidance:
+
+Nisha Lamichhane, “Software Testing Challenges in Practice in the Context of Web-Based Application”, 2013
+Prakash Gautam, “Keystroke Biometric System for Touch Screen Text Input on Android Devices”, 2018
+Santosh Mahato, “An Efficient Approach for Action Recognition in Sports Videos: Implementing MTSE into videos”, 2019
+Sahit Baral, “Pothole Detection Using Deep Learning Algorithm”,2023
+Jen Bati, "Ranjana Script Handwritten Character Recognition using CNN",2023
+Akash Adhikari, "Motion Prediction for Autonomous Vehicles", 2023
+Sumanta Silwal,  "Enhance Maize Diseases Classification using efficient Ensemble CNN Pre-Trained Models",2023
+Technical Committees and Participation
+
+Program Committee Member, 2019 International Conference on Health Informatics and Clinical Analytics, https://www.c-mrai.org/conferencenepal
+Participant, SANOG XII, Tutorial Session on Network for Research and Education in Campus, August 11-12, 2008 Kathmandu, Nepal https://www.sanog.org/sanog12/
+Participant, International UNNAYAN 2003, An International Tech Meet, February 12th – 15th 2003, Birla Institute of Technology, Ranchi, India
+Paper Presenter, Fifth International Conference on Advances in Computing and Data Sciences (ICACDS 2021), MVPS'Karmaveer Baburao Ganpatrao Thakare College of Engineering, Nashik, Maharashtra, India, April 2021, (The conference was held virtually due to the Pandemic) https://www.icacds.com/
+Think Tank member, Policy Research Institute, Government of Nepal, https://pri.gov.np/
+Acting Head, Department of Computer Science and Engineering, Kathmandu University, effective from 31st July 2024 for 3 years
+
+Undergraduate Program Coordinator (16th July 2012 to 16th July 2013), Department of Computer Science and Engineering, Kathmandu University, Dhulikhel, Kavre, Nepal
+
+Responsible for handling a team of 11 academic staff and 4 administrative staff)
+Responsible for managing semester courses of undergraduate level
+Responsible for communicating with higher authorities within the University
+Internship and Placement Coordinator (16th July 2013 to 15th November 2018), Department of Computer Science and Engineering, Kathmandu University, Dhulikhel, Kavre, Nepal
+
+Responsible for handling the internship program of 120 Computer Science and Computer Engineering students
+Communication with different IT industries for knowledge dissemination, Industry academia dialogue, short-term training programs for industrial and academic human resource
+Placement confirmation for undergraduate and graduate students
+Team Leader, Curriculum Drafting Committee, Bachelor of Technology in Artificial Intelligence, (2020 – 2021)
+
+Design of Course Curriculum of four years Bachelor Degree in Artificial Intelligence at Kathmandu University
+Subject Committee Member, Computer Science and Engineering Curriculum,  (2017 – 2019), Department of Computer Science and Engineering, Kathmandu University
+
+Bachelor of Information Technology, Subject Committee Member ( 2023 -2026), Department of Computer Science and Engineering, Kathmandu University
+
+Digital Governance and Policy Development, Subject Committee Member (2024 onwards), Department of Computer Science and Engineering, Kathmandu University
+
+Bachelor of Technology in Artificial Intelligence, Invited Subject Committee Member (2021 to Present), Department of Artificial Intelligence
+
+External Thesis Examiner, (2015 – Present), Purbanchal University, Tribhuwan University
+Bishal Neupane, Nigam Niraula, Nirjal Bhurtel, Jenisha Khulal Magar, Pankaj Raj Dawadi (2023). Hybrid Approach for Enhancing Traffic Signal Control with Computer Vision and Reinforcement Learning. 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
+Akash Adhikari, Pankaj Raj Dawadi (2023). Motion Prediction for Autonomous Vehicles Using Deep Learning Techniques. 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)
+Pankaj Raj Dawadi, Bal Krishna Bal, Manish Pokharel (2023). Devanagari License Plate Detection, Classification and Recognition. First International Conference on Advances in Computer Vision and Artificial Intelligence Technologies (ACVAIT 2022)
+Jen Bati, Pankaj Raj Dawadi (2023). Ranjana script handwritten character recognition using CNN. JOIV: International Journal on Informatics Visualization
+Dawadi P.R., Pokharel M., Bal B.K (2022). An Approach to Enhance the Character Recognition Accuracy of Nepalese License Plate. 2022
+Dawadi P.R., Pokharel M., Bal B.K (2021). An Approach of Devanagari License Plate Detection and Recognition Using Deep Learning. Singh M., Tyagi V., Gupta P.K., Flusser J., Ören T., Sonawane V.R. (eds) Advances in Computing and Data Sciences. ICACDS 2021. Communications in Computer and Information Science, vol 1441. Springer, Cham
+P. Gautam and P. R. Dawadi (2017). Keystroke biometric system for touch screen text input on android devices optimization of equal error rate based on medians vector proximity. 11th International Conference on Software, Knowledge, Information Management and Applications (SKIMA), 2017, pp. 1-7
+• M. R. Bashar, S. K. Kang, P. R. Dawadi and P. K. Rhee (2007). A Context-Aware Statistical Ontology Approach for Adaptive Face Recognition. Frontiers in the Convergence of Bioscience and Information Technologies, 2007, pp. 698-703
+Rezaul Bashar, Pankaj Raj Dawadi, Eun Sung Jung, and Phill Kyu Rhee (2007). An approach of cluster validity on Gabor wavelet based adaptive face recognition. Int. J. Know.-Based Intell. Eng. Syst. 11, 4 (December 2007), 219–225
+Sedai S., Jin K.E., Dawadi P.R., Rhee P.K. (2007). Use of Multiple Contexts for Real Time Face Identification. Gagalowicz A., Philips W. (eds) Computer Vision/Computer Graphics Collaboration Techniques. MIRAGE 2007. Lecture Notes in Computer Science, vol 4418. Springer, Berlin
+Pankaj Raj Dawadi, Nam Mi Young and Phill Kyu Rhee (2007). Feature Variance And Adaptive Classifier for Efficient Face Recognition. ”, Korean Information Processing Society, Nov. 16, 2007

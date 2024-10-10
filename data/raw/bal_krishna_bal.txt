@@ -1,0 +1,344 @@
+I am currently Professor of Computer Engineering and Associate Dean - Research, Projects, Extended Programs (July 29, 2024 - July 28, 2026) at the School of Engineering, Kathmandu University. Earlier, I served as the Head at the Department of Computer Science & Engineering, Kathmandu University(KU) from October 2018 till July 29, 2024. I completed my Bachelors and Masters Degrees in Informatics and Computer Engineering from Russia, respectively in the year 2002 and 2004. Similarly, I completed my PhD from Kathmandu University in the year 2015. I joined Kathmandu University in 2009. Before that I was working at Madan Puraskar Pustakalaya, Nepal in two of the Language Technologies Projects, namely the the Bhasha Sanchar Project(2005-2007) and PAN Localization Project (2005-2009). My primary research area is Natural Language Processing(NLP) and I am in the field since 2005. I have worked both in the industry and the academia conducting various Research and Development of NLP applications like the Spellchecker, Grammar checker, Machine Translation, Text-to-Speech, Optical Character Recognition(OCR), Sentiment Analysis etc. Besides NLP, I also have significant industrial experiences on Software Localization. I have been involved with multi-national software localization Projects like PAN Localization, http://panl10n.net and am currently providing consulting services to software giants for developing localized software and content.
+
+Professional Activities:
+
+Text-To-Speech for Nepali (2005-2006)
+
+Nepali Spell Checker Development under the OpenOffice.Org framework (2005-2006).
+
+Study of the structure of the Nepali Grammar, 2005.
+
+Dobhase, English to Nepali Machine Translation Project, 2005-2006.
+
+PAN Localization Project (2005-2007, 2007-2009), Project Manager. Nepal Component.
+
+Team Leader - Research and Development of Natural Language Processing Tools and Applications, Nepal Component, PAN Localization Project (2005-2009).
+
+Co-investigator - "Trust issues in e-Government: an ethnographic investigation of the Nepalese context", an institutional grant to the Department of Computer Science and Engineering, Kathmandu University, Nepal from the University Grants Commission(UGC), Sanothimi, Bhaktapur, Nepal (Jan 2010 - Feb 2012) .
+
+Member - IDN Variant TLDs Issues Project (Case Study Team for the Devanagari Script - 2011), ICANN.
+
+Member - Program Committee, Workshop on South and Southeast Asian Natural Languages Processing, 2011
+
+Research Secretary - Research Committee Secretariat, School of Engineering, Kathmandu University (2009-2011)
+
+Principal Investigator - "Opinion Mining and Argumentation Analysis in Newspaper Editorials" Project, an institutional grant to the Department of Computer Science and Engineering, Kathmandu University, Nepal from the University Grants Commission(UGC), Sanothimi, Bhaktapur, Nepal (2011-2013).
+
+Member - South Asia Subregional Economic Cooperation (SASEC) Information Highway Project, Nepal representing the Research and Training Center (RTC), Kathmandu University, Nepal (June 2013 - November 2014).
+
+Co-owner - Nepali Parallel Corpus Project 2012 in co-operation with Microsoft Research Connections, USA and Kathmandu University.
+
+Organizing Committee Member, International Summer School in Advanced Language Engineering, NSSNLP 2012, Kathmandu University, Dhulikhel, Kavre, Nepal, Aug 27 - Sept 21, 2012. Co-organized by Kathmandu University, University of Konstanz (Germany) and University of Science and Technology (Pakistan). Event sponsored by DAAD, German Academic Exchange Service and Kathmandu University.
+
+Member - Technical Committee, International Conference on Language and Technology. 2012
+
+Member - Working group Neo-Brahmi Generation Panel, ICANN, 2014.
+
+Member - Program Committee, CITD&S 2015: Creativity in Intelligent Technologies & Data Science
+
+Member - Program Committee, CITD&S 2019: Creativity in Intelligent Technologies & Data Science
+
+Member - Program Committee, CITD&S 2021: Creativity in Intelligent Technologies & Data Science
+
+Academic and Research Co-ordinator (2011-2015), ERASMUS MUNDUS Mobility Programs (STRONG TIES, INTACT, LEADERS), Kathmandu University
+
+Principal Investigator - Nepali OCR Project (Sept 2016 - August 2017): A joint collaboration between the Information and Language Processing Research Lab, KU and Nepal Association of Blind(NAB). Supported by the Direct Aid Program under the Australian Embassy to Nepal.
+
+Principal Investigator - Nepali TTS Project (Feb 2017 - March 2018): A joint collaboration between the Information and Language Processing Research Lab, KU and Nepal Association of Blind(NAB). Supported by the Kadoorie Charity Foundation, Hong Kong.
+
+Principal Investigator - "Popularity Tracking and Trend Analysis of Public Figures/Entities based on News Media Texts", a Faculty Research grant Project awarded to the Department of Computer Science and Engineering, School of Engineering, Kathmandu University, Nepal from the University Grants Commission(UGC), Sanothimi, Bhaktapur, Nepal (2018-2020).
+
+Nominated as a Domain Expert for Studying the Standard Keyboard Layout for the Nepali Locale by the Ministry of Communication and Information Technology, Technology Implementation and Coordination Section, Singha Durbar, Kathmandu (July 2020).
+
+Contributor to the Unicode Common Locale Data Repository (CLDR) for Nepali (2012-2020)
+
+Contact Person for the International Linguistic Olympiad for Nepal (2019 till date)
+
+Contact Person for the Asia Pacific Linguistic Olympiad for Nepal (2020 till date)
+
+Subject Committee Member - Department of Computer Science & Engineering Subject Committee, School of Engineering, Kathmandu University (December 03, 2018)
+
+Subject Committee Member - School of Mathematical Sciences Subject Committee, Institute of Science and Technology, Tribhuvan University (December 25, 2019) 
+
+Subject Committee Member - Department of Mathematics, School of Science Subject Committee, Kathmandu University (July 16, 2020)
+
+Mentor - Research and Writing Support Initiative. Tribhuvan University Grassroots Community for Promoting Research, Writing and Publication (March 06, 2021)
+
+Subject Committee Member - Technical Education Subject Committee, School of Education, Kathmandu University (May 06, 2021)
+
+Subject Committee Member - Electronics and Computer Engineering, Tribhuvan University, Institute of Engineering (July 27, 2023)
+
+Subject Committee Member - MPhil in ICT, Nepal Open University, School of Science, Health and Technology (Ashad 26, 2080 BS)
+United Mission to Nepal (UMN) Scholarship for studies at Gandaki Awasiya Ma. Vi (from grade four to ten) and at Gandaki Boarding Higher Secondary School(from grade eleven to twelve), Lamachaur, Pokhara, Nepal.
+
+Scholarship (free tuition) under the sponsorship of the Russian Federation for a full term of Engineering Studies in Russia.
+
+Master's Degree (Hons.), "Red Diploma" 2004.
+
+Recommendation for a free PhD course by the State Attestation Commission (Russia) 2004 at Volgograd State Technical University for the academic year 2004-2007
+
+Certified registered computer engineer of "A" category by the Nepal Engineering Council, 2005.
+
+Nominated as the finalist for the Fulbright PhD Science and Technology award 2007 by the bi-national Fulbright Commission Board of Nepal in the summer of 2006.
+
+National Technology Award 2079 BS by Nepal Academy of Science & Technology, Nepal Government.
+
+Invited Talks and Presentations:
+
+Session on “Landscape of Natural Language Processing in Nepal” for Fusemachines AI Fellowship Program conducted on July 1, 2024.
+
+Presentation on “Efforts Towards Artificial Intelligence Education and Research at Kathmandu University”, Conference on Artificial Intelligence for Prosperous Nepal, March 3, 2024, Hotel Hyatt Regency, Kathmandu, Nepal.
+
+Jury Member of Yantra Business Cup Softbots Prototype/Product Pitching Session collocated with Conference on Artificial Intelligence for Prosperous Nepal, March 3, 2024, Hotel Hyatt Regency, Kathmandu, Nepal.
+
+Talk on “Impact of Artificial Intelligence in Software Development”, Half-Day Workshop on the theme “Navigating the Future: Effective AI and Software Development Management”, Track - Effective AI. Organized by Scienta, Kathmandu University & SimulaMet, Nov 30, 2023, Kathmandu, Nepal.
+
+Talk on “Digital Readiness of the Tamang Language”, 8th Tamang Knowledge Festival, Bhadra 6-7, 2080 BS (August 23-24, 2023).
+
+Judge, AICrusade, September 3-4, 2023
+
+Panelist Member, KU AI Meet, September 9, 2023 (“Revealing the boundless horizons of AI: Navigating obstacles, forging paradigm shift and redefining the future“)
+
+Judge, KU HackFest September 29 - October 1, 2023
+
+Keynote Talk on “Introduction to Natural Language Processing” to PhD Scholars, PhD Festival, Tribhuvan University, October 9, 2023
+
+Session Chair at the “International Conference on Technologies for Computer, Electrical, Electronics & Communication 2023 (ICT-CEEL 2023)”, October 11, 2023.
+
+Talk on the “Role of Information Technology in the Standardization of the Tamang Language”, Tamang Bhasha Baigyanik Seminar, Ashoj 27, 2080 BS(October 14, 2023).
+
+Judge, AI Innovation Bounty, October 15, 2023
+
+Session Chair, 3rd NRN Global Knowledge Convention, October 17-18, 2023, Soaltee Hotel, Kathmandu (Future of IT and Digital Technology - Nepal Positioning), Sustainable Development Goals of United Nations
+
+Talk entitled - "Application of Artificial Intelligence (AI) and Natural Language Processing (NLP) to Address Cybersecurity Problems", Sixth International Conference on Cybersecurity, Khanty-Mansiysk, Russia, June 6-7, 2023
+
+Talk entitled - "Writing and Literacy in the Digital Era", one day symposium on Writing and Literacy Studies in the Context of Nepal, May 28, 2023, Kathmandu University School of Education, Hattiban, Lalitpur, Nepal.
+
+Session Chair - Communications and Information Processing Nepal(CIP-N), Kathmandu University, Nepal, April 6-7, 2023
+
+Panelist Member - “Internet Diaspora: The need of Multilingual Inclusive Internet and Importance of Universal Acceptance of IDNs”, March 28, 2023. Organized by CAN Federation and Youth IGF Nepal in coordination with ICANN.
+
+Session Chair of the Panel Discussion Session - THE FUTURE OF CAMPUS-BASED DIGITAL HEALTHCARE: INNOVATIONS AND CHALLENGES - SocialTech 2023, 5’th International Conference on Healthcare, SDGs and Social Business, March 19-21, 2023, Kyushu University, Japan.
+
+Keynote Speaker in the two day International Conference on the theme “Recent Advances in Computer Science & Information Technology”, January 10-11, 2023. Organized by Prerana College of Commerce, Nagpur, India.
+
+Lead Trainer - Natural Language International Training Workshop (August 29 - September 2, 2022), Islamabad, Pakistan. Organized by Allama Iqbal Open University, Islamabad in collaboration with Kohsar University, Murree, Pakistan.
+
+Panelist Member - One Day Workshop on "AI for Social Impact: Exploring the Roles of the Academia, Industry and Government", Kathmandu University Panchkhal Campus, Panckhal, Kavre, June 21, 2022.
+
+Guest Lecture on NLP to the Masters in Data Science students, School of Mathematical Sciences, Tribhuvan University - April 30 - May 1, 2022
+
+Panelist Member on Social Media Regulation and Inclusiveness in Indigeneous Television - April 23, 2022
+
+Talk and Presentation on Corpus Development from Gorkhapatra Texts organized by Gorkhapatra Sansthan at Dhulikhel - March 16, 2022
+
+Fourth Asia Pacific Linguistic Olympiad - Organizing Chair, April 10,2022
+
+Fifth Himalayan Computatonal Linguistic Olympiad - Organizing Chair, March 11, 2022
+
+Talk and Presentation on Enabling a Multilingual Teaching Learning Environment through Machine Translation Technologies - Current Status and Prospects of Nepal organized by Nepal Academy, Departmenet of Mother Tongue Languages - February 20, 2022
+
+Guest Speaker at Itonics Hack-a-Week, organized by Locus 2021, January 30, 2022
+
+Invited Speaker at the 3'rd NAAMII Winter School on Natural Language Processing, December 23, 2021
+
+Panelist Member on "IT Research and Innovation" atPresidential IT Conclave 2021 at Yak and Yeti, December 21, 2021
+
+Guest Speaker of the Fourth Nepal Youth Science Summit-2021 (NYSS-2021), Dec 18-19,2021
+
+Speaker, "Entity Based Sentiment Analysis in Nepali News Texts", 21'st May, 2021. Two weeks online Short Term Training Program(eSTTP) on "Latest Trends in Information Technology(LTIT)" organized by Symbiosis Institute of Computer Studies and Research(SICSR), Pune, India, May 18-31, 2021.
+
+Speaker, 3’rd National Workshop on Machine Learning and Data Science, 30’th July – 3’rd August, 2020, Kathmandu, Nepal
+
+Natural Language Processing Problems and Solutions - A Machine Learning Perspective. Speaker, 2’nd National Workshop on Machine Learning and Data Science, 10-14 July, 2019, Kathmandu, Nepal
+
+Machine Learning Approach to Solving Natural Language Processing (NLP) Problems. Keynote Speech at CIT&DS 2019: Creativity in Intelligent Technologies & Data Science, 16-19 September, 2019, Volgograd, Russia.
+
+Envisioning a Trilingual Machine Translation System for the Language Pairs - "Tamang-Nepali-English". 3'rd Tamang Knowledge Festival,Kathmandu, August 22-23, 2018.
+
+Understanding Disaster Preparedness and Recovery: A Case Study from Nepal Earthquake of 2015. Bal Krishna Bal, Omprakash Gnawali, Jenifer Vardeman-Winter, Rakesh Verma. 2016 Joint ASNEngr/CAN-USA Annual Conference, Houston, TX, USA.
+
+Text Analysis Engine: Defense Against 9-1-1 Text DDoS. Towards DDoS Resilient Emergency Dispatch Center. University of Houston, April 2016.
+
+On Localization, Natural Language Processing Tools and Use models of Technology for increasing the use of ICT in rural Nepal. Use of ICT in Rural Nepal: National Conference on Technology Influences In Conjunction with the Results Dissemination Workshop of the Use Models of Technology Project : March 22-23, 2012, Kathmandu, Nepal.
+
+Localization of ICT for Empowering the Rural Masses and the Differently-abled in Nepal. 2012 Joint American Society of Nepalese Engineers (ASNEngr)/Computer Association of Nepal-USA (CAN-USA), Leesburg, Virginia (Greater Washington D.C area), May 26-27, 2012.
+
+Computer writing of Nepali - Achievements so far. Seminar on Writing the languages of Nepal in Computer, Language Technology Kendra, Lalitpur, PatanDhoka, Nepal, April 2011.
+
+Localization and tools for generating local content. Asian Development Bank SASEC Research and Training Network Workshop. Yalamaya Kendra, Lalitpur, PatanDhoka, Nepal, November 2011.
+
+From a Simplified Typing System to a Completely Localized Operating System in Nepali - NepaLinux.Information and Communication Technology (ICT) Policy Consultation Meeting organized by Association for Progressive Communications and Bangladesh Friendship Society, Dhaka, April 2006.
+
+Software Localization, Natural Language Processing, Language Technologies,Social Computing, Trust Parameters in E-Government Systems, Cyber Security
+
+Mentoring of Students:
+
+Current MS Students:
+
+Funghang Limbu (Since 2024), "“Information Retrieval system for Nepali Language based on RAG”, Department of Computer Science & Engineering, Kathmandu University.
+
+Kiran Pantha (Since 2024), "Deep Learning Approaches for Nepali Automatic Speech Recognition”, Department of Computer Science & Engineering, Kathmandu University.
+
+Shabda Poudel (Since 2023), “Nepali English Translation in Legal System Using NMT”, Department of Computer Science & Engineering, Kathmandu University.
+
+Current PhD Students:
+
+Bikash Balami (Since 2023), “Automatic Abstractive Text Summarization of Nepali Text Using Transformer”, Central Department of Computer Science & Information Technology, Tribhuvan University.
+
+Rupak Raj Ghimire (Since 2022), “Automatic Speech Recognition for Nepali Using Deep Learning”, Department of Computer Science & Engineering, Kathmandu University.
+
+Nawaraj Poudel (Since 2021), “Optimizing Database Queries using Machine Learning Approaches”, Department of Computer Science & Engineering, Kathmandu University.
+
+Pankaj Dawadi (Since 2018), “Performance Measurement Using Machine Learning Approach: A Perspective from Smart Transportation”, Department of Computer Science & Engineering, Kathmandu University.
+
+Advised PhD Graduates:
+
+Sameer Kharel , “Exploration of Usability Methods for Transcending the Gap between Apps and the Web”, Department of Computer Science and Engineering, Kathmandu University,2021.
+
+Advised Master Graduates:
+
+Rati Manandhar, "Developing Software Process Improvement Plan: Case Studies of Software Companies of Nepal", Department of Computer Science and Engineering, Kathmandu University, 2011.
+
+Vijay Shrestha, "Library Automation and Networking Using Cost-Effective Technology and Machine Readable Cataloging (MARC)", Department of Computer Science and Engineering, Kathmandu University, 2012.
+
+Prajwal Amatya, "Investigating Trust issues in the implementation of e-government in Nepal using ethnography as a tool", Department of Computer Science and Engineering, Kathmandu University, 2012.
+
+Shanta Acharya, "A Framework for Integrating Digital Library System to Content Management System (Moodle)", Department of Computer Science and Engineering, Kathmandu University, 2014.
+
+Mukesh Chapagain, "Recommendation System Using Ratings and Reviews", Department of Computer Science and Engineering, Kathmandu University, 2015.
+
+Nirajan Pant, "Segmentation Problems in Nepali Optical Character Recognition", Department of Computer Science and Engineering, Kathmandu University, 2016.
+
+Santosh Regmi, "Making a Distinction between Facts and Opinions in Nepali Subjective Texts", Department of Computer Science and Engineering, Kathmandu University, 2016.
+
+Lal Bahadur Reshmi Thapa, "Document Level Opinion Analysis of Nepali Subjective Texts", Department of Computer Science and Engineering, Kathmandu University, 2016.
+
+Chandan Prasad Gupta, "Subjectivity Analysis in Nepali",Department of Computer Science and Engineering, Kathmandu University, 2016.
+
+Rupak Raj Ghimire, "Algorithms and Techniques for Nepali Text-to-Speech",Department of Computer Science and Engineering, Kathmandu University, 2017.
+
+Gopal Maharjan, "Named-Entity Recognition for Nepali", Department of Computer Science and Engineering, Kathmandu University, 2018.
+
+Roop Shree Ratna Bajracharya,"Building a Natural Sounding Text-to-Speech System for Nepali".Department of Computer Science and Engineering, Kathmandu University, 2018.
+
+Roshan Manushree Adhikari,"Study of Effectiveness of Deep Learning Techniques for Intrusion Detection in the Context of Adversarial Attacks". Department of Computer Science and Engineering, Kathmandu University, 2018.
+
+Praveen Acharya,"Deep Learning Approach for English-Nepali language pair Machine Translation".Department of Computer Science and Engineering, Kathmandu University,2019.
+
+Kamal Kafle,"Popularity Tracking and Trend Analysis of Political Figures/Entities based on News Media".Department of Computer Science and Engineering, Kathmandu University,2019.
+
+Manoj Roka, "Predicting the Topic of Nepali Documents via Topic Modeling Using Latent Dirichlet Allocation".Department of Computer Science and Engineering, Kathmandu University,2019.
+
+Birat Bade Shrestha, “Named Entity-based Sentiment Analysis in News Media”. Department of Computer Science & Engineering, Kathmandu University, 2020.
+
+Umesh Hengaju, “Improving OCR via Enhanced Pre-processing Techniques”. Department of Computer Science & Engineering, Kathmandu University, 2020.
+
+Sunil Regmi, Large Vocabulary Continuous Speech Recognition for Nepali. Department of Computer Science & Engineering, Kathmandu University, 2021.
+
+Bipesh Raj Subedi, "A CNN-Transformer Based Model for Nepali Image Captioning", Department of Computer Science & Engineering, Kathmandu University,2022.
+
+Shishir Paudel, "Nepali Speech Recognition with CNN and Transformer", Department of Computer Science & Engineering, Kathmanddu University,2022.
+
+Ishan Dangol, “Improving Devanagari (Nepali) text to speech (TTS) using deep neural network”, Department of Computer Science & Engineering, Kathmandu University, 2023.
+09/2024 - Present
+
+Professor - Computer Engineering
+
+07/2024 - Present
+
+Associate Dean - Research, Projects, Extended Programs, School of Engineering, Kathmandu University
+
+05/18 - 09/24
+
+Kathmandu University,Nepal
+
+Associate Professor, Department of Computer Science & Engineering
+
+10/2018-07/2024
+
+Head of Department - Department of Computer Science & Engineering
+
+01/2015 – 04/2021
+
+Lead External Linguist (LXL) for Nepali (Freelancing)
+
+VistaTEC Inc
+
+08/09 - 04/18
+
+Kathmandu University,Nepal
+
+Assistant Professor, Department of Computer Science & Engineering
+
+Lead, Information and Language Processing Research Lab
+
+09/15 - 08/16
+
+University of Houston, TX, U.S.A
+
+Visiting Assistant Professor,Computer Science Department
+
+03/05 - 07/09
+
+Madan Puraskar Pustakalaya Nepal
+
+Project Manager and Natural Language Processing Researcher
+
+09/04 -02/05
+
+Gandaki College of Engineering & Science, Nepal
+
+Lecturer
+
+
+Fax: 977-11-415011 P.O Box: 6250
+Dhulikhel, Nepal
+977-11-415100, 977-11-415200, 977-9801210035, 977-11-415005
+info@ku.edu.np
+
+Shabdapurush Poudel, Bal Krishna Bal, and Praveen Acharya. (2024). Bidirectional English-Nepali Machine Translation(MT) System for Legal Domain. In Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024, pages 53–58, Torino, Italia. ELRA and ICCL
+Bipesh Subedi, Sunil Regmi, Bal Krishna Bal, and Praveen Acharya (2024). Exploring the Potential of Large Language Models (LLMs) for Low-resource Languages: A Study on Named-Entity Recognition (NER) and Part-Of-Speech (POS) Tagging for Nepali Language. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 6974–6979, Torino, Italia. ELRA and ICCL
+Swornim Nakarmi, Sarin Sthapit, Arya Shakya, Rajani Chulyadyo, and Bal Krishna Bal (2024).  Nepal Script Text Recognition Using CRNN CTC Architecture. In Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024, pages 244–251, Torino, Italia. ELRA and ICCL
+Bal Krishna Bal, Balaram Prasain, Rupak Raj Ghimire, Praveen Acharya (2024). Strategies for Corpus Development for Low-Resource Languages: Insights from Nepal. Book Chapter in Automatic Speech Recognition and Translation for Low Resource Languages, Editor(s): L. Ashok Kumar, D. Kathika Renuka, Bharathi Raja Chakravarthi, Thomas Mandl, Print ISBN: 9781394213580, Online ISBN: 9781394214624, DOI: 10.1002/9781394214624, © 2024 Scrivener Publishing LLC
+Ishan Dongol, Bal Krishna Bal (2023). Transformer-based Nepali Text-to-Speech. In Proceedings of the 20th International Conference on Natural Language Processing (ICON), pages 651–656, Goa University, Goa, India. NLP Association of India (NLPAI).
+Rupak Raj Ghimire, Bal Krishna Bal, Prakash Poudyal (2023). Active Learning Approach for Fine-Tuning Pre-Trained ASR Model for a LowResourced Language: A Case Study of Nepali. In Proceedings of the 20th International Conference on Natural Language Processing (ICON), pages 82–89, Goa University, Goa, India. NLP Association of India (NLPAI)
+Shishir Paudel, Bal Krishna Bal, and Dhiraj Shrestha (2023). Large Vocabulary Continous Speech Recognition for Nepali Language using CNN and Transformer. In Proceedings of the 4th Conference on Language, Data and Knowledge, pages 328–333, Vienna, Austria. NOVA CLUNL, Portugal
+Saugat Singh, Bipesh Subedi, and Bal Krishna Bal (2023). Nepali Video Captioning using CNN-RNN Architecture. International Conference on Technologies for Computer, Electrical, Electronics & Communication (ICT-CEEL 2023), 11’th - 13’th October 2023, Bhaktapur, Nepal.
+Bal Krishna Bal (2023). Roadmap for the Development of Artificial Intelligence (AI) and Natural Language Processing (NLP)-based Technologies in Low-Resource Settings. Bhasha Lok, Annual Magazine of the Language Commission Nepal.
+Pankaj Raj Dawadi, Manish Pokharel, Bal Krishna Bal (2023). An Approach to Enhance the Character Recognition Accuracy of Nepalese License Plates.. n: Khanna, A., Polkowski, Z., Castillo, O. (eds) Proceedings of Data Analytics and Management . Lecture Notes in Networks and Systems, vol 572. Springer, Singapore. https://doi.org/10.1007/978-981-19-7615-5_67
+Rupak Raj Ghimire, Bal Krishna Bal, Prakash Poudyal (2023). A Comprehensive Study of the Current State-of-the-Art in Nepali Automatic Speech Recognition Systems. International Conference on Technologies for Computer, Electrical, Electronics & Communication (ICT-CEEL 2023), 11’th - 13’th October 2023, Bhaktapur, Nepal. [Was awarded the Best Paper]
+Rupak Raj Ghimire, Bal Krishna Bal, Balaram Prasain, Prakash Poudyal (2023). Pronunciation-Aware Syllable Tokenizer for Nepali Automatic Speech Recognition System. In Proceedings of the 20th International Conference on Natural Language Processing (ICON), pages 36–43, Goa University, Goa, India. NLP Association of India (NLPAI).
+Utsav Maskey, Manish Bhatta, Shiva Raj Bhatta, Sanket Dhungel, Bal Krishna Bal (2022). Nepali Encoder Transformers: An Analysis of Auto Encoding Transformer Language Models for Nepali Text Classification. Proceedings of SIGUL2022 @LREC2022, pages 106–111,Marseille, 24-25 June 2022. © European Language Resources Association (ELRA), licensed under CC-BY-NC-4.0
+Bal Krishna Bal (2022). Role of Language Technologies in the Promotion and Preservation of Languages. Bhasha Lok, Annual Magazine of the Language Commission Nepal
+Bipesh Subedi, Bal Krishna Bal (2022).  CNN-Transformer based Encoder-Decoder Model for Nepali Image Captioning.. In Proceedings of the 19th International Conference on Natural Language Processing (ICON), pages 86–91, New Delhi, India. Association for Computational Linguistics.
+Bal Krishna Bal (2022). Enabling a Multilingual Teaching Learning Environment through Machine Translation Technologies - Current Status and Prospects of Nepal. Journal of Nepalese Studies, Vol. 15, No. 1, Pages 28-36
+Dawadi P.R., Pokharel M., Bal B.K. (2021). An Approach of Devanagari License Plate Detection and Recognition Using Deep Learning.. In: Singh M., Tyagi V., Gupta P.K., Flusser J., Ören T., Sonawane V.R. (eds) Advances in Computing and Data Sciences. ICACDS 2021. Communications in Computer and Information Science, vol 1441. Springer, Cham.
+Sameer Kharel, Mikael Fernstrom, Bal Krishna Bal (2021). Omnichannel Heuristics for E-commerce. Proceedings of the 34'th British HCI Conference (HCI2021), July 20-21, 2021
+Sunil Regmi and Bal Krishna Bal (2021). An End-to-End Speech Recognition for the Nepali Language. Proceedings of the 18'th International Conference on Natural Language Processing, pages 180-185, December 16 - 19, 2021, Silchar, India. ©2021 NLP Association of India (NLPAI)
+Binaya K. Chaudhary, Bal Krishna Bal and Rasil Baidar (2020). Efforts Towards Developing a Tamang Nepali Machine Translation System.. Proceedings of the 17'th International Conference on Natural Language Processing, pages 281-286, Patna, India, December 18-21, 2020, ©2020 NLP Association of India (NLPAI)
+Umesh Hengaju, & Dr Bal Krishna Bal (2020). Improving the Recognition Accuracy of Tesseract-OCR Engine on Nepali Text Images via Preprocessing. Advancement in Image Processing and Pattern Recognition, 3(3)
+Tamrakar, S., Bal, B., & Thapa, R. (2020). Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes. Technical Journal, 2(1), ISSN 2676-1416
+Oyesh Mann Singh, Sandesh Timilsina, Bal Krishna Bal, Anupam Joshi (2020). Aspect Based Abusive Sentiment Detection in Nepali Social Media Texts. 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), December 7-10, 2020
+Bade Shrestha, Birat and Bal, Bal Krishna (2020). Named-Entity Based Sentiment Analysis of Nepali News Media Texts. Proceedings of the 6th Workshop on Natural Language Processing Techniques for Educational Applications,Association for Computational Linguistics
+Sharad Duwal, Bal Krishna Bal (2019). Efforts in the Development of an Augmented English-Nepali Parallel Corpus. Proceedings of the Language Technologies for All (LT4All) , pages 375–378 Paris, UNESCO Headquarters, 5-6 December, 2019
+Manoj Roka, Bal Krishna Bal (2019). Predicting the Topic of Nepali Documents via Topic Modeling Using Latent Dirichlet Allocation. Journal of Nepalese Studies, Vol. 12, No. 1, Pages 102-111
+Bal B.K., Regmi S., Kafle K. (2019). How Popular or Unpopular Have Your Leaders Been - Popularity Tracking and Trend Analysis of Socio-Political Figures. . In: Kravets A., Groumpos P., Shcherbakov M., Kultsova M. (eds) Creativity in Intelligent Technologies and Data Science. CIT&DS 2019. Communications in Computer and Information Science, vol 1084. Springer, Cham
+Maharjan G., Bal B.K., Regmi S. (2019). Named Entity Recognition (NER) for Nepali. . In: Kravets A., Groumpos P., Shcherbakov M., Kultsova M. (eds) Creativity in Intelligent Technologies and Data Science. CIT&DS 2019. Communications in Computer and Information Science, vol 1084. Springer, Cham
+Praveen Acharya, Bal Krishna Bal. (2018). A Comparative Study of SMT and NMT: Case Study of English-Nepali Language Pair.. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages, 29-31, DOI: 10.21437/SLTU.2018-19.
+Bal Krishna Bal, Weidong Shi, Stephen Huang. (2018). Towards a Content-based Defense against Text DDoS in 9-1-1 Emergency Systems. . IEEE International Symposium on Technologies for Homeland Security.October 23-24, 2018 Woburn, MA USA.
+Roop Bajracharya, Santosh Regmi, Bal Krishna Bal, Balaram Prasain (2018). Building a Natural Sounding Text-to-Speech System for the Nepali Language - Research and Development Challenges and Solutions. . Proc. The 6th Intl. Workshop on Spoken Language Technologies for Under-Resourced Languages, 152-156, DOI: 10.21437/SLTU.2018-32.
+Santosh Regmi, Bal Krishna Bal and Marina Kultsova. (2017). Analyzing Facts and Opinions in Nepali Subjective Texts.. IISA 2017, The 8'th International Conference on Information, Intelligence, Systems and Applications,28-30 August, 2017, Larnaca, Cyprus.
+Ghimire R.R., Bal B.K. (2017). Enhancing the Quality of Nepali Text-to-Speech Systems.. In: Kravets A., Shcherbakov M., Kultsova M., Groumpos P. (eds) Creativity in Intelligent Technologies and Data Science. CIT&DS 2017. Communications in Computer and Information Science, vol 754. Springer, Cham
+Nirajan Pant and Bal Krishna Bal. (2016). Improving Nepali OCR Performance by Using Hybrid Recognition Approaches.. IISA 2016, The 7th International Conference on Information, Intelligence, Systems and Applications, 13-15 July, 2016, Porto Carras Grand Resort, Chalkidiki, Greece.
+Lal Bahadur Reshmi Thapa and Bal Krishna Bal. (2016). Classifying Sentiments in Nepali Subjective Texts.. IISA 2016, The 7th International Conference on Information, Intelligence, Systems and Applications, 13-15 July, 2016, Porto Carras Grand Resort, Chalkidiki, Greece.
+Chandan Prasad Gupta and Bal Krishna Bal. (2015). Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language.. In Proceedings of the Cognitive Computing and Information Processing (CCIP), 2015 International Conference, IEEE, 3-4 March, 2015 - Noida, India.
+Santosh Regmi and Bal Kriishna Bal. (2015). What makes Facts stand out from Opinions? Distinguishing Facts from Opinions in News Media.. In: Kravets A., Shcherbakov M., Kultsova M., Shabalina O. (eds) Creativity in Intelligent Technologies and Data Science. Communications in Computer and Information Science, vol 535. Springer, Cham.
+Pat Hall, Bal Krishna Bal, Sagun Dhakwa and Bhim Narayan Regmi (2014). Issues in Encoding the Languages of Nepal. In Proceedings of the 15'th International Conference on Intelligent Text Processing and Computational Linguistics, April 6-12, 2014 - Kathmandu, Nepal
+Bal Krishna Bal (2014). Analyzing Opinions and Argumentation in News Editorials and Op-Eds.. International Journal of Advanced Computer Science and Applications (IJACSA), Special Issue on Natural Language Processing
+Bal Krishna Bal, Patrick Saint-Dizier (2010). Towards Building Annotated Resources for Analyzing Opinions and Argumentation in News Editorials. LREC, Malta, Nicoletta Calzolari (Eds.), ELRA, May 2010.
+Bal Krishna Bal, Patrick Saint-Dizier (2009). Who Speaks for Whom? Towards Analyzing Opinions in News Editorials. International Symposium on Natural Language Processing (IEEE-SNLP 2009), Bangkok, October 2009
+Bal Krishna Bal, Patrick Saint-Dizier (2009). Towards and Analysis of Argumentation Structure and the Strength of Arguments in News Editorials. AISB Symposium on Persuasive Technologies, Edinburgh, April 2009.
+Bal Krishna Bal (2009). Towards Building Advanced Natural Language Applications - An Overview of the Existing Primary Resources and Applications in Nepali. In Proceedings of the 7'th Workshop on Asian Language Resources, Association for Computational Linguistics, Suntec, Singapore, August, 2009, pp.165-170
+Bal Krishna Bal (2009). Towards an Analysis of Opinions in News Editorials: How Positive was the year?. n Proceedings of the 8'th International Conference on Computational Semantics, Pages 260-263, Tilburg, January 2009. Copyright 2009 International Conference on Computational Semantics.

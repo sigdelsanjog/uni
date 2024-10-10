@@ -1,0 +1,53 @@
+With over 23+ years of combined teaching, research, and industrial experience, Sudan Jha is a Senior member of IEEE and a Professor in the Department of Computer Science & Engineering at Kathmandu University, Nepal. He is lead researcher of the IoT R&D lab at Kathmandu University. His previous affiliations include KIIT University, Chandigarh University, Christ University, etc. He was 'Technical Director' at Nepal Television, 'Principal' at Nepal College of IT, and 'Individual Consultant' at Nepal Telecom Authority.
+
+Prof. Jha is dedicated to advancing higher education quality and actively works on smart platforms. His extensive research portfolio comprises 80+ SCI, SCIE indexed research papers and book chapters in international peer-reviewed journals and conferences. He serves as a Co-Editor-in-Chief in an international journal. He also serves as Guest Editor for SCIE/ESCI/SCOPUS indexed journals. With three patents to his name, he has authored and edited 6 books on cutting-edge topics in IoT, 5G, and AI, published by Elsevier, CRC, and AAP. His research has also secured funding for two international projects.
+
+Additionally, Prof. Jha contributes as a Keynote at more than 40 international conferences. In addition, he has also delivered faculty development programs, short-term training programs, and workshops in national and international conferences, and universities. He holds certifications in Microservices Architecture, Data Science, and Foundations of Artificial Intelligence.
+
+His primary research interests encompass Quality of Services in IoT enabled devices, Neutrosophic theory, and Neutrosophic Soft Set Systems.
+“Certified Quality Improvement Program on Data Analytics using Python”, Christ University, 2021
+“Outcome based Education”, Chandigarh University, 2021
+“Current Practice for Assessment in Teaching Learning Process”, Chandigarh University, 2021
+“Celebrating 40 Years of India's First Communication Satellite – Apple”, Chandigarh University, 2021
+IBM certified on “Microservices Architecture And Implementation”, 2020, (CEMICI1IN, provided by IBM)
+Certified by Edureka! as Data Scientist with proficiency in Python, certified, 2017, ID: C8S51JPD
+Awarded as the ‘Most Enthusiastic Professor’, year 2016, KIIT University, India
+Best Faculty Award at Krupajal Engineering College for the year 2006 and 2007, India
+“High Frequency Award” at Malviya National Institute of Technology, 2006, Jaipur, India
+
+Quality Assessment of smart devices through integrating AI, Quality assessment of smart devices through assssing Cyber Security and/or preventing IoT attacks;
+
+Currently I am working on few books:
+
+1. 
+
+"Quality Assessment and Security in Industrial IoT (IIoT)" on by Taylor and Francis Group.
+
+2. Soft Computing in Smart Manufacturing and Materials
+Senior Member - IEEE
+
+Lead Researcher - IoT R&D Lab, Kathmandu University
+
+Co-Editor-in-Chief - IJICTDC
+
+Ahmad, Sultan, Sudan Jha, Afroj Alam, Muhammad Yaseen, and Hikmat AM Abdeljaber. (2022 ). A Novel AI-Based Stock Market Prediction Using Machine Learning Algorithm. Scientific Programming [SCIE, IF = 1.45, Q3]
+Shakya, S. R., & Jha, S. (2022). Challenges in Industrial Internet of Things (IIoT). In Industrial Internet of Things. Taylor and Francis (Book: Industrial IoT (pp. 19-39). CRC Press.)
+Jha, S., Ahmad, S., Abdeljaber, H.A.M., Hamad, A.A., Alazzam, M.B. (2022). A post covid machine learning approach in teaching and learning methodology to alleviate drawbacks of the e-whiteboards. Journal of Applied Science and Engineering (Taiwan), 2022, 25(2), pp. 285–294 [SCIE, IF = 0.40, Q3]
+Rajagopal, Aghila, Sudan Jha, Ramachandran Alagarsamy, Shio Gai Quek, and Ganeshsree Selvachandran (2022). A novel hybrid machine learning framework for the prediction of diabetes with context-customized regularization and prediction procedures. Mathematics and Computers in Simulation 198 (2022): 388-406. [SCIE, IF = 2.63, Q1]
+Kumar, A., Anand, D., Jha, S., Joshi, G. P., Cho, W. (2022). Optimized Load Balancing Technique for Software Defined Network. CMC-Computers, Materials & Continua, 72(1), 1409–1426 [SCIE, IF = 3.88, Q1]
+IIoT Edge Network and Spectrum Scarcity Issue (2022). Industrial Internet of Things. Industrial Internet of Things, pp. 161-174. CRC Press, 2022. (SCOPUS, IF = 1.03, Q3)
+Rajagopal, Aghila, Sudan Jha, Ramachandran Alagarsamy, Shio Gai Quek, and Ganeshsree Selvachandran (2022). A novel hybrid machine learning framework for the prediction of diabetes with context-customized regularization and prediction procedures. Mathematics and Computers in Simulation (Journal) [SCIE, IF = 2.63, Q1]
+Gyanendra Prasad Joshi, Sudan Jha (2022). IIoT Edge Network and Spectrum Scarcity Issue. Book-Industrial Internet of Things
+Sudan Jha, N., Prashar, D., Ahmad, S., Alouffi, B., & Alharbi, A. (2022). Integrated IoT-Based Secure and Efficient Key Management Framework Using Hashgraphs for Autonomous Vehicles to Ensure Road Safety. Sensors [SCIE, IF = 4.35, Q2]
+D. Prashar, G. P. Joshi, Sudan Jha, E. Yang and K. C. Son (2021). Three-dimensional distance-error-correction-based hop localization algorithm for IoT devices. Computers, Materials & Continua (vol. 66, no.2, pp. 1529–1549)
+Ahmad, S., Jha, S., Eljialy, A.E.M., Khan, S. (2021). A Systematic Review on e-Wastage Frameworks. International Journal of Advanced Computer Science and Applications; West Yorkshire Vol. 12, Iss. 12, [SCIE, IF = 1.03, Q3]
+Rajagopal, Aghila, Sudan Jha, Manju Khari, Sultan Ahmad, Bader Alouffi, and Abdullah Alharbi (2021). A Novel Approach in Prediction of Crop Production Using Recurrent Cuckoo Search Optimization Neural Networks. Applied Sciences (11, no. 21)
+Sudan Jha, Sultan Ahmad Ali Sher, Shoney Sebastian and Abdullah Alharbi (2021). Secured and Provisioned Access Authentication Using Subscribed User Identity in Federated Clouds. International Journal of Advanced Computer Science and Applications (IJACSA) - Volume 12 No 11
+Arri, Harwant S., Ramandeep Singh, Sudan Jha, Deepak Prashar, Gyanendra P. Joshi, and Ill C. Doo (2021). Optimized Task Group Aggregation-Based Overflow Handling on Fog Computing Environment Using Neural Computing. Mathematics (9, no. 19: 2522)
+Kulvinder Singh and Sudan Jha (2021). Cyber Threat Analysis And Prediction Using Machine Learning. IEEE
+Sudan Jha (2021). An Ordered Cipher Technology (OCT) for the Secured Network Transmission. IEEE - Third International Conference on Inventive Research in Computing Applications (ICIRCA) (pp. 289-294)
+Sudan Jha, Sidheswar Routray, Hikmat A. M. Abdeljaber, Sultan Ahmad (2021). A novel approach for decision support system in cricket using machine learning. International Journal of Computer Applications in Technology
+Sudan Jha, Sidheswar Routray, Sultan Ahmad (2021). An expert system-based IoT system for minimisation of air pollution in developing countries. The International Journal of Computer Applications in Technology (IJCAT), 3rd issue, V68 N3
+Sudan Jha, Changho Seo, Eunmok Yang & Gyanendra Prasad Joshi (2021). Real time object detection and trackingsystem for video surveillance system. Multimedia Tools and Applications volume 80, pages 3981–3996
+Aghila Rajagopal, A. Ramachandran, K. Shankar, Manju Khari, Sudan Jha and Gyanendra Prasad Joshi (2020). Optimal Routing Strategy Based on Extreme Learning Machine with Beetle Antennae Swarm Algorithm for Low Earth Orbit Satellite Communication Networks. International Journal of Satellite Communications and Networking (2020): 'Online First'
+Sudan Jha (2018). SCIE papers on Neutrosophic Soft Sets. International Refereed

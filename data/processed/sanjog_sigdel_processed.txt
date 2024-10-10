@@ -1,0 +1,43 @@
+academic experience
+
+lecturer september 2024  present
+
+department of computer science and engineering
+
+school of engineering kathmandu university ku
+
+subjects
+comp 472 artificial intelligence
+comp 232 database management system
+visiting faculty feb 2023august 2024
+department of computer science and engineering
+
+school of engineering kathmandu university ku
+
+contributed to the subject committee as an invitee representing industry expertise in developing the course curriculum for principle of health information system for bachelors in health informatics program organized by school of engineering
+supervision of graduate research project and thesis
+subject principle of health information systems to masters program in health informatics students
+visiting lecturer jan 2021  mar 2023
+nist college banepa 
+
+supervised major projects of undergraduate students of csit bim and bca programs
+evaluated internship reports
+subjects
+digital logic
+operating system
+artificial intelligence
+database management system
+data mining and data warehousing
+web technology
+software project management
+google scholar httpsscholargooglecomcitationsuserc24makaaaaajhlenoiao
+research gate httpswwwresearchgatenetprofilesanjogsigdel
+advisor september 2024  present
+kathmandu university computer club
+a summary on above the clouds a berkeley view of cloud computing s sigdel kathmandu university	2	2018
+extended study of gait analysis in identification of cardiovascular diseases r bista s sigdel jc ferreira international journal of computer information systems and industrial 		2024
+software requirements specification of ehealth architecture for nepal s sigdel httpdxdoiorg1013140rg221720757764		2017
+a note on the fibonacci sequence s sigdel b dahal s rijal j kanhaiya eureka an international journal of mathematics 3 23924233 4145		2016
+assistive domotics logical design of automated home and movement of wheelchair in a smart home s sigdel kathmandu university		2015
+internet protocol version 6 ipv6 s sigdel kathmandu university		2014
+gait analysis in early identification of cardiovascular diseases using mpu6050 sensor analysis framework data augmentation and prediction model r bista s sigdel s phuyal jc ferreira data augmentation and prediction model		

@@ -1,0 +1,82 @@
+education
+
+oct 2013  oct 2016 phd in machine learning and data mining
+
+université de nantes france
+
+title a new horizon for the recommendation integration of spatial dimensions to aid decision making
+
+ 
+
+sep 2011  jul 2013 master erasmus mundus in data mining and knowledge management
+
+université lyon 2 france université de nantes france université paris 6 france universitatea politehnica din bucuresti romania
+
+sep 2003  jan 2008 bachelor in computer engineering
+
+pulchowk campus tribhuvan university nepal
+
+academic positions
+
+jul 2021  present assistant professor
+
+department of computer science and engineering school of engineering kathmandu university nepal
+
+aug 2018  jul 2021 lecturer
+
+department of computer science and engineering school of engineering kathmandu university nepal
+
+jul 2010  apr 2011 course instructor
+
+department of electronics and computer engineering pulchowk campus tribhuvan university nepal
+
+dec 2008  apr 2009 lab instructor
+
+himalaya college of engineering nepal
+
+professional experience
+
+may 2017  jun 2018 rd engineer
+
+capacités sas  université de nantes france
+
+oct 2013  oct 2016 phd researcher
+
+laboratoire dinformatique de nantes atlantique cka laboratoire des sciences du numérique de nantes  dataforpeople france
+
+aug 2013  oct 2013 senior software engineer
+
+merojobcom nepal
+
+feb 2013  jul 2013 intern research and development
+
+laboratoire dinformatique de nantes atlantique france
+
+jul 2012  jul 2012 intern research and development
+
+laboratoire dinformatique de nantes atlantique france
+
+mar 2008  aug 2011 senior software engineer
+
+d2hawkeyeservices pvt ltd nka cotiviti nepal pvt ltd nepal
+
+aug 2007  feb 2008 intern
+
+d2hawkeyeservices pvt ltd nka cotiviti nepal pvt ltd nepal
+
+may 2007  jul 2007 intern
+
+merojobcom nepal
+research interests
+
+recommender systems
+statistical relational learning
+probabilistic graphical models
+geographical data analysis
+chulyadyo r  leray p 2018 using probabilistic relational models to generate synthetic spatial or nonspatial databases 12th international conference on research challenges in information science rcis
+chulyadyo r  leray p 2017 a framework for offline evaluation of recommender systems based on probabilistic relational models technical report laboratoire des sciences du numérique de nantes capacités sas
+chulyadyo r 2016 a new horizon for the recommendation integration of spatial dimensions to aid decision making doctoral dissertation université de nantes
+ishak m b chulyadyo r  leray p 2016 probabilistic relational model benchmark generation arxiv preprint arxiv160300709
+chulyadyo r  leray p 2015 integrating spatial information into probabilistic relational models ieee international conference on data science and advanced analytics dsaa
+chulyadyo r  leray p 2014 a personalized recommender system from probabilistic relational model and users preferences kes
+chulyadyo r harzallah m  berio g 2013 core ontology based approach for treating the flatness of automatically built ontology keod

@@ -1,0 +1,137 @@
+educations
+
+post doctorate korea aerospace university south korea feb 2012 to jan 2013
+phd in egovernment korea aerospace university south korea sep 2007 to aug 2011
+master of engineering software systembirla institute of technology  science bits pilani india
+bachelor of engineering computer science karnataka university india
+
+phd students
+
+an intelligent approach for digital video content analysis
+
+student name er hari kc
+
+year of enrollment 2022
+
+ 
+
+artificial intelligence in climate change
+
+student name mr manish joshi
+
+year of enrollment 2022
+
+ 
+
+performance measurement using machine learning approach a perspective from smart transportation
+
+student name pankaj dawadi
+
+year of enrollment 2018
+
+ 
+
+learner based model in online learning system
+
+student name sushil shrestha
+
+status graduated 2021
+
+ 
+
+egovernment security architecture for nepal
+
+student name ms pranita upadhyaya
+
+status graduated 2016
+
+ 
+
+masters students
+
+ai in climate change a case of vehicle emission
+
+student name  pratit raj giri
+
+status  ongoing 2022
+
+ 
+
+a datadriven approach towards iot based smart farming in protected agriculture
+
+student name  uday kandel
+
+status  graduated2021
+
+ 
+
+personalized learning system and automatic learning style detection approaches
+
+student name  arun timilsina
+
+status graduated2020
+
+ 
+
+performance evaluation of egovernment services citizens perspective
+
+student name  hmeant goit
+
+status  graduated 2018
+
+ 
+
+designing enterprise architecture for egovernance system a case study of nepal
+
+student name  ms ankita yadav
+
+status  graduated 2016
+
+ 
+
+enhancing fault tolerance level in egovernance system using proactive approach
+
+student name  praynita karki
+
+status  graduated2016
+digital governance
+smart city
+internet of things iot
+artificial intelligence ai
+cloud computing
+big data
+software technology
+international conferences
+
+pranita upadhyaya  tuan anh nguyen manish pokharel subarna shakya jong sou park  modeling  analysis of cost effective high availability security architecture for whole of government systems to cater ddos attack 2014 ieee international conference on computational intelligence and computing research
+purusottam kharel subarna shakya kanhaiya jha manish pokharel egovernment implementing challenges verification using fuzzy logic 4th ieee international advance computing conference gurgaon india ieee2014
+pranita upadhyaya subarna shakya manish pokharel egovernment security readiness assessment for developing countriescase study nepal govt organizations internet ahici 2012 third asian himalayas international conference 2325 nov 2012pp 15 9781467325905122012 ieee
+manish pokharel young sik kim and jong sou park a digital gap between developed country and least developed country a comparative case study between nepal and korea icegov2010 the 4th international conference on theory and practice of electronic governance acm beijing china oct 2010 pp 8590 9781450300582
+manish pokharel seulki lee jong sou park disaster recovery for system architecture using cloud computing saint2010 2010 10th annual international symposium on applications and the internet ieee computer society seoul republic of korea jul 2010 304307
+manish pokharel jong sou park cloud computing a technology for tomorrow icca2010 the 8th international conference on computer applications ucsy yangon myanmar mar 2010 105113
+sok chuob manish pokharel jong sou park the future data center for egovernance icact2010 the 12th international conference on advanced communication technology ieee gangwondo republic of korea feb 2010 17389445 9788955191462
+manish pokharel younghyun yoon and jong sou park cloud computing in system architecture cnmt2009 the first international symposium on computer network and ultimedia technology ieee vol1 wuhan china dec 2009 409413 97814244 52736
+manish pokharel jong sou park cloud computing  future solution for egovernance icegov 2009 the 3rd international conference on theory and practice of electronic governance acm press bogota colombia nov 2009 415416 9781605586632
+manish pokharel jong sou park issues of interoperability in egovernance system icact09 the 11th international conference on advanced communication technology ieee communications society vol3 phoenix park korea feb 2009 pp21602164 grrc 17389445 9788955191394
+manish pokharel jong sou park fault tolerance and its significance in connectivity irc 2008 proceedings of international conference on internet information retrieval 2008 korea aerospace univ goyang korea dec 2008 pp 143147
+manish pokharel jong sou park applying architectural pattern in ebusiness system 2008 seoul korea nov 2008 pp 201206
+thandar thein manish pokharel sungdo chi and jong sou park a recovery model for survivable distributed system through the use of virtualization ncm 2008 fourth international conference on networked computing and advance information management ieee computer society vol 1 gyeongju korea sep 2008 pp 7984 krf
+young sik kim manish pokharel byung seub lee egovernment implementation strategy in least developed countries a nepalese case acm 2007 icegov 07 proceedings of the 1st international conference on theory and practice of electronic governance macao pp 349354
+sok chuob manish pokharel and jong sou park modeling and analysis of cloud computing availability based on eucalyptus platform for egovernment data center proc of the 5th int conf on innovative mobile and internet services in ubiquitous computing imis 2011 ieee computer society seoul korea jun 2011 pp 289296
+involved in it sector since 1995
+worked as a consultant in nipanational it industry promotion agency to develop egovernment master plan for costa rica from august 2010 to december 2010
+working as a consultant in nipa national it industry promotion agency to develop egovernment master plan for philippines from may 01 2012 to november 2012
+appointed as a member in high level ict council under the chairmanship of honorable prime minister of nepal
+worked as a member in high level educational council
+worked as a member in a smart nast
+appointed as a member in it sub committee  nast
+developed  smart city master plan for kamalamai municipality  sindhuli
+bijay dongol manish pokharel 2017 enhancing availability of government data center system gidc nepal international journal of computer science and mobile computing vol 6 issue 7
+gajendra sharma manish pokharel 2016 the strategic role of information technology in egovernment a case of nepal international journal of ebusiness and egovernment studies
+pranita upadhyaya tuan anh nguyen manish pokharel subarna shakya 2014 modeling and analysis of high availability security architecture for whole of government systems advanced computing an american journal 11 001011
+pranita upadhyaya subarna shakya manish pokharel 2012 information security framework for egovernment implementation in nepal vol 3 no 7 july 2012 issn 20798407 journal of emerging trends in computing and information sciences 20092012 cis journal
+manish pokharel seungjun choi bongjae lee jong sou park 2011 the cloudbased approach for disaster recovery system korea knowledge information technology society volume 06
+manish pokharel seulki lee jong sou park 2011 an approach of enhancing dependability in the system with the perspective of system architecture journal of informatics and regional studies center for ebusiness studies japan vol3 no1 pp 3945
+manish pokharel seungjun choi bongjay lee jong sou park 2011 a noble enterprise architecture to enhance the nonfunctional properties korea knowledge information technology society volume 06
+manish pokharel sok chubok jong sou park 2011 softwareasaservice in providing quality services in costeffective way in egovernment korea knowledge information technology society volume 06
+manish pokharel and jong sou park 2010 increasing system fault tolerance with software rejuvenation in egovernment system ijcsns international journal of computer science and network security vol10 no 5 pp 160166

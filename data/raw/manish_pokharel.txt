@@ -1,0 +1,137 @@
+Educations
+
+Post Doctorate Korea Aerospace University, South Korea [Feb 2012 to Jan 2013]
+PhD in E-government Korea Aerospace University, South Korea [Sep 2007 to Aug 2011]
+Master of Engineering (Software System)Birla Institute of Technology & Science, (BITS), Pilani, India
+Bachelor of Engineering (Computer Science) Karnataka University, India
+
+PhD Students
+
+“An Intelligent approach for Digital Video Content Analysis”
+
+Student Name: Er. Hari K.C.
+
+Year of Enrollment (2022)
+
+ 
+
+“Artificial Intelligence in Climate Change”
+
+Student Name: Mr. Manish Joshi
+
+Year of Enrollment (2022)
+
+ 
+
+“Performance Measurement Using Machine Learning Approach: A Perspective from SMART Transportation”.
+
+Student Name: Pankaj Dawadi
+
+Year of Enrollment: 2018
+
+ 
+
+“Learner based model in online learning system”
+
+Student Name: Sushil Shrestha
+
+Status: Graduated 2021
+
+ 
+
+“e-Government Security Architecture for Nepal”
+
+Student Name: Ms. Pranita Upadhyaya
+
+Status: Graduated (2016)
+
+ 
+
+Masters Students
+
+“AI in Climate Change: A case of Vehicle Emission”
+
+Student Name : Pratit Raj Giri
+
+Status : Ongoing (2022)
+
+ 
+
+“A Data-Driven Approach Towards IoT based SMART Farming in Protected Agriculture”
+
+Student Name : Uday Kandel
+
+Status : Graduated(2021)
+
+ 
+
+“Personalized learning system and Automatic Learning Style Detection Approaches”
+
+Student Name : Arun Timilsina
+
+Status: Graduated(2020)
+
+ 
+
+“Performance evaluation of e-Government Services: Citizen's Perspective”
+
+Student Name : Hmeant Goit
+
+Status : Graduated (2018)
+
+ 
+
+“Designing Enterprise Architecture for e-Governance System, A case Study of Nepal”
+
+Student Name : Ms. Ankita Yadav
+
+Status : Graduated (2016)
+
+ 
+
+“Enhancing Fault Tolerance Level in E-governance System using Proactive Approach”
+
+Student Name : Praynita Karki
+
+Status : Graduated(2016)
+Digital Governance
+SMART City
+Internet of Things (IoT)
+Artificial Intelligence (AI)
+Cloud Computing
+Big Data
+Software Technology
+International Conferences
+
+Pranita Upadhyaya , Tuan Anh Nguyen, Manish Pokharel, Subarna Shakya, Jong Sou Park ,” Modeling & Analysis of Cost effective High availability Security Architecture for Whole of Government Systems to cater DDoS attack”, 2014 IEEE International Conference on Computational Intelligence and Computing Research
+Purusottam Kharel, Subarna Shakya, Kanhaiya Jha ,Manish Pokharel, "E-Government Implementing Challenges Verification using Fuzzy Logic", 4th IEEE International Advance Computing Conference, Gurgaon, India, IEEE-2014.
+Pranita Upadhyaya, Subarna Shakya, Manish Pokharel,” E-government Security Readiness Assessment for developing countries.Case study: Nepal Govt. Organizations”, Internet (AH-ICI), 2012 Third Asian Himalayas International Conference, 23-25 Nov. 2012,pp. 1-5, 978-1-4673-2590-5/12©2012 IEEE
+Manish Pokharel, Young Sik Kim and Jong Sou Park, "A 'Digital Gap' between Developed Country and Least Developed Country: A Comparative Case Study between Nepal and Korea", ICEGOV2010, The 4th International Conference on Theory and Practice of Electronic Governance, ACM, Beijing, China, Oct 2010, pp. 85-90, 978-1-4503-0058-2
+Manish Pokharel, Seulki Lee, Jong Sou Park, "Disaster Recovery for System Architecture using Cloud Computing", SAINT2010, 2010 10th Annual International Symposium on Applications and the Internet, IEEE Computer Society, Seoul, Republic of Korea, Jul 2010, 304-307.
+Manish Pokharel, Jong Sou Park, "Cloud Computing: A Technology for Tomorrow", ICCA2010, The 8th International Conference on Computer Applications, UCSY, Yangon, Myanmar, Mar 2010, 105-113
+Sok Chuob, Manish Pokharel, Jong Sou Park, "The Future Data Center for E-Governance", ICACT2010, The 12th International Conference on Advanced Communication Technology, IEEE, Gangwon-Do, Republic of Korea, Feb 2010, 1738-9445, 978-89-5519-146-2
+Manish Pokharel, YoungHyun Yoon and Jong Sou Park, "Cloud Computing in System Architecture", CNMT2009, The First International Symposium on Computer Network and ultimedia Technology, IEEE, Vol.1, Wuhan, China, Dec 2009, 409-413, 978-1-4244- 5273-6
+Manish Pokharel, Jong Sou Park, "Cloud Computing : Future solution for e-Governance", ICEGOV 2009, The 3rd International Conference on Theory and Practice of Electronic Governance, ACM PRESS, Bogota, Colombia, Nov 2009, 415-416, 978-1-60558-663-2
+Manish Pokharel, Jong Sou Park, "Issues of Interoperability in E-Governance System", ICACT09, The 11th International Conference on Advanced Communication Technology, IEEE Communications Society, Vol.3, Phoenix Park, Korea, Feb 2009, pp.2160-2164, [GRRC], 1738-9445, 978-89-5519-139-4
+Manish Pokharel, Jong Sou Park, "Fault Tolerance and Its Significance in Connectivity", IRC 2008, Proceedings of International Conference on Internet Information Retrieval 2008, Korea Aerospace Univ., Goyang, Korea, Dec 2008, pp. 143-147
+Manish Pokharel, Jong Sou Park, "Applying Architectural Pattern in E-business System", 2008, Seoul, Korea, Nov 2008, pp. 201-206
+Thandar Thein, Manish Pokharel, Sung-Do Chi, and Jong Sou Park, "A Recovery Model for Survivable Distributed System through the use of Virtualization", NCM 2008, Fourth International Conference on Networked Computing and Advance Information Management, IEEE computer society, Vol. 1, Gyeongju, Korea, Sep 2008, pp. 79-84, [KRF]
+Young Sik Kim, Manish Pokharel, Byung Seub Lee, “E-Government Implementation Strategy in Least Developed Countries: A Nepalese Case”, ACM 2007, ICEGOV ’07, Proceedings of the 1st international conference on Theory and practice of electronic governance, Macao, pp. 349-354
+Sok Chuob, Manish Pokharel, and Jong Sou Park, "Modeling and Analysis of Cloud Computing Availability Based on Eucalyptus Platform for E-Government Data Center", Proc. of the 5th Int. Conf. on Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS 2011), IEEE Computer Society, Seoul, Korea, Jun 2011, pp. 289-296
+Involved in IT sector since 1995
+Worked as a consultant in NIPA[National IT Industry Promotion Agency] to develop E-Government Master Plan for Costa Rica from August 2010 to December 2010
+Working as a consultant in NIPA [National IT Industry Promotion Agency] to develop E-Government Master Plan for Philippines from May 01, 2012 to November 2012
+Appointed as a member in High Level ICT Council under the chairmanship of Honorable Prime Minister of Nepal
+Worked as a member in High Level Educational Council
+Worked as a member in a SMART NAST
+Appointed as a member in IT Sub Committee , NAST
+Developed “ SMART City Master Plan for Kamalamai Municipality” , Sindhuli
+Bijay Dongol, Manish Pokharel (2017). Enhancing Availability of Government Data Center System (GIDC Nepal). International Journal of Computer Science and Mobile Computing, vol 6, issue 7
+Gajendra Sharma, Manish Pokharel (2016). THE STRATEGIC ROLE OF INFORMATION TECHNOLOGY IN E-GOVERNMENT: A CASE OF NEPAL. INTERNATIONAL JOURNAL OF eBUSINESS AND eGOVERNMENT STUDIES
+Pranita Upadhyaya, Tuan Anh Nguyen, Manish Pokharel, Subarna Shakya (2014). Modeling and Analysis of High availability Security Architecture for Whole of Government Systems. Advanced Computing: An American Journal ,1:1, 001-011
+Pranita Upadhyaya, Subarna Shakya, Manish Pokharel (2012). Information Security Framework for E-Government Implementation in Nepal. VOL. 3, NO. 7, July 2012 ISSN 2079-8407, Journal of Emerging Trends in Computing and Information Sciences ©2009-2012 CIS Journal
+Manish Pokharel, Seung-Jun Choi, Bong-Jae Lee, Jong Sou Park (2011). The Cloud-Based Approach for Disaster Recovery System. Korea Knowledge Information Technology Society, Volume 06
+Manish Pokharel ,Seulki Lee, Jong Sou Park (2011). An Approach of Enhancing Dependability in the System with the Perspective of System Architecture. Journal of Informatics and Regional Studies, Center for E-Business Studies, Japan Vol.3, No.1, pp. 39-45
+Manish Pokharel, Seung-Jun Choi, Bong-Jay Lee, Jong Sou Park (2011). A Noble Enterprise Architecture to enhance the Non-Functional Properties. Korea Knowledge Information Technology Society, Volume 06
+Manish Pokharel, Sok Chubok, Jong Sou Park (2011). Software-as-a-Service in Providing Quality Services in Cost-effective Way in E-government. Korea Knowledge Information Technology Society, Volume 06
+Manish Pokharel and Jong Sou Park (2010). Increasing System Fault Tolerance with Software Rejuvenation in E-government System. IJCSNS, International Journal of Computer Science and Network Security, VOL.10, No. 5, pp. 160-166
