@@ -1,12 +1,13 @@
 import json
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Embedding, LSTM, TimeDistributed
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.callbacks import Callback
 from tqdm import tqdm
+
+# Import EncoderLayer and PositionalEncoding from mini_transformer_model
+from mtm import EncoderLayer, PositionalEncoding
 
 # Load the training data
 training_data_file_path = '../uni/data/training_data.json'
@@ -14,10 +15,7 @@ training_data_file_path = '../uni/data/training_data.json'
 with open(training_data_file_path, 'r', encoding='utf-8') as training_file:
     training_data = json.load(training_file)
 
-# Check the length of the training data
-print(f"Number of training samples: {len(training_data)}")
-
-# Create a mapping of words to indices
+# Tokenization
 tokenizer = tf.keras.preprocessing.text.Tokenizer()
 tokenizer.fit_on_texts([data['input'] for data in training_data])
 
@@ -32,10 +30,9 @@ flattened_output_data = []
 for outputs in output_data:
     flattened_output_data.extend(outputs)
 
-# Create a unique set of classes
+# Create a unique set of classes for outputs
 unique_classes = sorted(set(flattened_output_data))
 class_to_index = {cls: idx for idx, cls in enumerate(unique_classes)}
-print("Class to Index Mapping:", class_to_index)
 
 # Convert output labels to indices for each input
 output_indices = []
@@ -43,7 +40,7 @@ for outputs in output_data:
     output_indices.append([class_to_index[label] for label in outputs])
 
 # Determine the maximum length for consistent input and output sequences
-max_length = 10000  # Set a fixed length to ensure uniformity
+max_length = 1000  # Set a fixed length to ensure uniformity
 input_data = [seq[:max_length] for seq in input_data]
 output_indices = [seq[:max_length] for seq in output_indices]
 
@@ -58,14 +55,97 @@ output_data = np.array([to_categorical(seq, num_classes=len(unique_classes)) for
 print(f"Shape of Input Data: {input_data.shape}")
 print(f"Shape of Output Data: {output_data.shape}")
 
-# Define a simplified model architecture
-model = Sequential()
-model.add(Embedding(input_dim=len(tokenizer.word_index) + 1, output_dim=8, input_length=max_length))
-model.add(LSTM(16, return_sequences=True))
-model.add(TimeDistributed(Dense(len(unique_classes), activation='softmax')))
+# Define the Transformer model architecture
+import tensorflow as tf
+from mtm import PositionalEncoding  # Ensure PositionalEncoding is correctly imported
+# Import EncoderLayer if it's defined in another file
+
+class TransformerModel(tf.keras.Model):
+    def __init__(self, num_layers, d_model, num_heads, dff, input_vocab_size, target_vocab_size, max_seq_len, rate=0.1, trainable=True, dtype='float32', name="transformer_model"):
+        super(TransformerModel, self).__init__(name=name, trainable=trainable, dtype=dtype)  # Pass dtype, name, and trainable to the superclass
+
+        self.embedding = tf.keras.layers.Embedding(input_vocab_size, d_model)
+        self.pos_encoding = PositionalEncoding(d_model, max_len=max_seq_len)
+
+        self.enc_layers = [EncoderLayer(d_model, num_heads, dff, rate) for _ in range(num_layers)]
+        self.dropout = tf.keras.layers.Dropout(rate)
+
+        self.final_layer = tf.keras.layers.Dense(target_vocab_size, activation='softmax')
+
+        # Store hyperparameters to return in get_config
+        self.num_layers = num_layers
+        self.d_model = d_model
+        self.num_heads = num_heads
+        self.dff = dff
+        self.input_vocab_size = input_vocab_size
+        self.target_vocab_size = target_vocab_size
+        self.max_seq_len = max_seq_len
+        self.rate = rate
+
+    def call(self, x, training=False):
+        seq_len = tf.shape(x)[1]
+        
+        # Add embedding and positional encoding
+        x = self.embedding(x)  # (batch_size, input_seq_len, d_model)
+        x *= tf.math.sqrt(tf.cast(tf.shape(x)[-1], tf.float32))  # Scaling the embeddings
+        x = self.pos_encoding(x)  # (batch_size, input_seq_len, d_model)
+
+        x = self.dropout(x, training=training)
+
+        # Pass through each encoder layer
+        for enc_layer in self.enc_layers:
+            x = enc_layer(x, training=training)  # Pass training as a keyword argument
+
+        # Final classification layer
+        x = self.final_layer(x)
+
+        return x  # Final encoded output
+
+    def get_config(self):
+        # This method is required for the model to be saved and loaded correctly
+        config = super(TransformerModel, self).get_config()
+        config.update({
+            'num_layers': self.num_layers,
+            'd_model': self.d_model,
+            'num_heads': self.num_heads,
+            'dff': self.dff,
+            'input_vocab_size': self.input_vocab_size,
+            'target_vocab_size': self.target_vocab_size,
+            'max_seq_len': self.max_seq_len,
+            'rate': self.rate,
+            'trainable': self.trainable,
+            'dtype': self._dtype_policy.name,  # Use dtype from TensorFlow's dtype policy
+            'name': self.name
+        })
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        return cls(**config)  # Pass all config parameters directly to the constructor
+
+
+# Model parameters
+num_layers = 2
+d_model = 64
+num_heads = 4
+dff = 128
+input_vocab_size = len(tokenizer.word_index) + 1
+target_vocab_size = len(unique_classes)
+max_seq_len = max_length
+
+# Initialize the Transformer model
+transformer_model = TransformerModel(
+    num_layers=num_layers,
+    d_model=d_model,
+    num_heads=num_heads,
+    dff=dff,
+    input_vocab_size=input_vocab_size,
+    target_vocab_size=target_vocab_size,
+    max_seq_len=max_seq_len
+)
 
 # Compile the model
-model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+transformer_model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 # Custom callback to use TQDM for a progress bar
 class CustomTqdmCallback(Callback):
@@ -86,9 +166,9 @@ dataset = tf.data.Dataset.from_tensor_slices((input_data, output_data))
 dataset = dataset.shuffle(buffer_size=len(input_data)).batch(batch_size)
 
 # Train the model with a progress bar
-model.fit(dataset, epochs=10, callbacks=[CustomTqdmCallback()], verbose=0)
+transformer_model.fit(dataset, epochs=20, callbacks=[CustomTqdmCallback()], verbose=1)
 
-# Save the model
-model.save('../uni/models/my_llm_model.h5')
+# Save the trained model
+transformer_model.save('../uni/models/my_llm_model.keras')
 
 print("Model training complete and saved.")
