@@ -68,6 +68,12 @@ def evaluate_model(test_input, expected_output=None):
 
         # ToDo: Compare with expected output and calculate accuracy
 
+        if expected_output:
+            logging.info(f"Expected Output: {expected_output}")
+            accuracy = np.mean([a == b for a, b in zip(result.split(), expected_output.split())]) * 100
+            print(f"Accuracy: {accuracy:.2f}%")
+
+            return result
 
     except Exception as e:
         logging.error(f"Error during evaluation: {str(e)}")
