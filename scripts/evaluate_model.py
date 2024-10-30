@@ -11,12 +11,12 @@ logging.basicConfig(filename='../uni/logs/evaluate_model.log', level=logging.INF
                     format='%(asctime)s %(levelname)s %(message)s')
 
 # Load the trained model with custom objects
-model_path = '../uni/models/my_llm_model.keras'  # Update to .keras format
+model_path = '../uni/models/my_llm_model.keras'
 logging.info(f"Loading model from {model_path}")
 
 with tf.keras.utils.custom_object_scope({
     "PositionalEncoding": PositionalEncoding,
-    "TransformerModel": TransformerModel  # Include the TransformerModel
+    "TransformerModel": TransformerModel
 }):
     model = tf.keras.models.load_model(model_path)
 
@@ -25,25 +25,20 @@ tokenizer_path = '../uni/data/tokenizer.pkl'
 with open(tokenizer_path, 'rb') as handle:
     tokenizer = pickle.load(handle)
 
-# Load token mappings for debugging or reverse lookup
-tokens_file = '../uni/data/tokens.json'
-with open(tokens_file, 'r') as f:
-    tokens_data = json.load(f)
-
-logging.info(f"Loaded token data from {tokens_file}")
+# Verify tokenizer vocabulary size
+print(f"Tokenizer vocabulary size: {len(tokenizer.word_index)}")
 
 # Function to preprocess input text using Keras Tokenizer
 def preprocess_input(text, max_length=1000):
-    # Debugging: Print the original text
     print(f"Original input text: {text}")
-    
-    # Tokenize and pad the input using the Keras tokenizer
     input_sequence = tokenizer.texts_to_sequences([text])
     input_padded = pad_sequences(input_sequence, maxlen=max_length, padding='post')
 
-    # Debugging: Print the tokenized and padded input
+    # Check if input_padded contains any non-zero values (valid tokens)
     print(f"Tokenized and padded input: {input_padded}")
-
+    if not np.any(input_padded):
+        print("Warning: Input text tokenized to all `0`s.")
+    
     return input_padded
 
 # Evaluation function
@@ -52,28 +47,28 @@ def evaluate_model(test_input, expected_output=None):
         input_data = preprocess_input(test_input)
         predictions = model.predict(input_data)
 
+        # Debug: Check model output shape
+        print(f"Model output shape: {predictions.shape}")
+
         # Get predicted indices with the highest probability
         predicted_indices = np.argmax(predictions[0], axis=-1)
-
-        # Debugging: Print predicted indices
         print(f"Predicted indices: {predicted_indices}")
 
-        # Convert predicted indices back to words using Keras tokenizer's reverse mapping
+        # Convert predicted indices back to words
         predicted_tokens = tokenizer.sequences_to_texts([predicted_indices])
+        print(f"Predicted tokens (raw): {predicted_tokens}")
 
-        # Join the predicted tokens to form the predicted output
-        result = ' '.join(predicted_tokens)
+        # Handle case where predicted_tokens might be empty
+        result = ' '.join(predicted_tokens) if predicted_tokens else ""
         logging.info(f"Input: {test_input}")
         logging.info(f"Predicted Output: {result}")
-
-        # ToDo: Compare with expected output and calculate accuracy
 
         if expected_output:
             logging.info(f"Expected Output: {expected_output}")
             accuracy = np.mean([a == b for a, b in zip(result.split(), expected_output.split())]) * 100
             print(f"Accuracy: {accuracy:.2f}%")
 
-            return result
+        return result
 
     except Exception as e:
         logging.error(f"Error during evaluation: {str(e)}")
