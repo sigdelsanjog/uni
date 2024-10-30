@@ -9,47 +9,37 @@ from tqdm import tqdm
 # Import EncoderLayer and PositionalEncoding from mini_transformer_model
 from mtm import TransformerModel, EncoderLayer, PositionalEncoding
 
-# Load the training data
-training_data_file_path = '../uni/data/training_data.json'
+# Load the tokens data from tokens.json (Numeric tokens)
+tokens_file_path = '../uni/data/tokens.json'
 
-with open(training_data_file_path, 'r', encoding='utf-8') as training_file:
-    training_data = json.load(training_file)
+with open(tokens_file_path, 'r', encoding='utf-8') as tokens_file:
+    tokens_data = json.load(tokens_file)
 
-# Tokenization
-tokenizer = tf.keras.preprocessing.text.Tokenizer()
-tokenizer.fit_on_texts([data['input'] for data in training_data])
+# Extract input and output data
+input_data = []
+output_data = []
 
-# Convert input text to sequences
-input_data = tokenizer.texts_to_sequences([data['input'] for data in training_data])
+# Assuming tokens.json structure: { 'faculty1': {'original_tokens': [...], 'numeric_tokens': [...]}, ... }
+for faculty, tokens in tokens_data.items():
+    input_data.append(tokens['numeric_tokens'][:-1])  # Use all except the last token for input
+    output_data.append(tokens['numeric_tokens'][1:])  # Use the tokens shifted by one for output
 
-# Prepare output data
-output_data = [data['output'] for data in training_data]
-
-# Flatten the output_data if necessary
-flattened_output_data = []
-for outputs in output_data:
-    flattened_output_data.extend(outputs)
-
-# Create a unique set of classes for outputs
-unique_classes = sorted(set(flattened_output_data))
-class_to_index = {cls: idx for idx, cls in enumerate(unique_classes)}
-
-# Convert output labels to indices for each input
-output_indices = []
-for outputs in output_data:
-    output_indices.append([class_to_index[label] for label in outputs])
-
-# Determine the maximum length for consistent input and output sequences
-max_length = 1000  # Set a fixed length to ensure uniformity
-input_data = [seq[:max_length] for seq in input_data]
-output_indices = [seq[:max_length] for seq in output_indices]
+# Determine the maximum sequence length for padding
+max_length = 1000  # Set a fixed length (can adjust based on analysis)
 
 # Pad the input and output sequences to ensure uniform length
 input_data = pad_sequences(input_data, maxlen=max_length, padding='post')
-output_indices = pad_sequences(output_indices, maxlen=max_length, padding='post')
+output_data = pad_sequences(output_data, maxlen=max_length, padding='post')
 
-# Convert to one-hot encoding if multi-class classification
-output_data = np.array([to_categorical(seq, num_classes=len(unique_classes)) for seq in output_indices])
+# Find the maximum token index in output_data
+max_token_value = max(max(seq) for seq in output_data)
+print(f"Maximum token value in output data: {max_token_value}")
+
+# Adjust the vocab_size based on the maximum token value
+vocab_size = max_token_value + 1  # +1 to include the highest token index
+
+# Ensure output data is converted to one-hot encoding if needed (multi-class classification)
+output_data = np.array([to_categorical(seq, num_classes=vocab_size) for seq in output_data])
 
 # Print the shapes of input_data and output_data
 print(f"Shape of Input Data: {input_data.shape}")
@@ -60,8 +50,8 @@ num_layers = 2
 d_model = 64
 num_heads = 4
 dff = 128
-input_vocab_size = len(tokenizer.word_index) + 1
-target_vocab_size = len(unique_classes)
+input_vocab_size = vocab_size  # Use the adjusted vocabulary size
+target_vocab_size = vocab_size
 max_seq_len = max_length
 
 # Initialize the Transformer model
@@ -100,6 +90,7 @@ dataset = dataset.shuffle(buffer_size=len(input_data)).batch(batch_size)
 transformer_model.fit(dataset, epochs=20, callbacks=[CustomTqdmCallback()], verbose=1)
 
 # Save the trained model
-transformer_model.save('../uni/models/my_llm_model.keras')
+model_save_path = '../uni/models/my_llm_model.keras'
+transformer_model.save(model_save_path)
 
 print("Model training complete and saved.")
